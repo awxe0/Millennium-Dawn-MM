@@ -1,0 +1,175 @@
+defined_text = {
+	name = SST_ACTIVITY
+
+	text = {
+		trigger = {
+			has_global_flag = sst_enabled
+		}
+		localization_key = SST_ACTIVITY_OFF
+	}
+	text = {
+		localization_key = SST_ACTIVITY_ON
+	}
+}
+
+defined_text = {
+	name = SST_OPENING
+
+	text = {
+		trigger = {
+			has_global_flag = sst_enabled
+		}
+		localization_key = SST_OPEN
+	}
+	text = {
+		localization_key = SST_CLOSE
+	}
+}
+
+defined_text = {
+	name = GetSSTShipTier
+
+	text = {
+		trigger = {
+			has_global_flag = sst_y1_enabled
+		}
+		localization_key = "1"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y2_enabled
+		}
+		localization_key = "2"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y3_enabled
+		}
+		localization_key = "3"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y4_enabled
+		}
+		localization_key = "4"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y5_enabled
+		}
+		localization_key = "5"
+	}
+}
+
+defined_text = { #changed for MD
+	name = GetSSTCarrierTier
+
+	text = {
+		trigger = {
+			has_global_flag = sst_y1_enabled
+		}
+		localization_key = "ship_hull_carrier_2"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y2_enabled
+		}
+		localization_key = "ship_hull_carrier_3"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y3_enabled
+		}
+		localization_key = "ship_hull_carrier_4"
+	}
+	text = {
+		trigger = {
+			has_global_flag = sst_y4_enabled
+		}
+		localization_key = "ship_hull_carrier_5"
+	}
+	# text = {
+	# 	trigger = {
+	# 		has_global_flag = sst_y5_enabled
+	# 	}
+	# 	localization_key = "ship_hull_carrier_4"
+	# }
+}
+
+### Millenium Dawn has quite different dates for non-MtG/MtG ship upgrade paths
+
+defined_text = {
+	name = SST_SHIP_TIERS_1
+
+	text = {
+		trigger = {
+			has_dlc = "Man the Guns"
+		}
+		localization_key = sst_y1_text_mtg
+	}
+	text = {
+		trigger = {
+			NOT = {
+				has_dlc = "Man the Guns"
+			}
+		}
+		localization_key = sst_y1_text_nonmtg
+	}
+}
+
+defined_text = {
+	name = SST_SHIP_TIERS_2
+
+	text = {
+		trigger = {
+			has_dlc = "Man the Guns"
+		}
+		localization_key = sst_y2_text_mtg
+	}
+	text = {
+		trigger = {
+			NOT = {
+				has_dlc = "Man the Guns"
+			}
+		}
+		localization_key = sst_y2_text_nonmtg
+	}
+}
+
+defined_text = {
+	name = SST_SHIP_TIERS_3
+
+	text = {
+		trigger = {
+			has_dlc = "Man the Guns"
+		}
+		localization_key = sst_y3_text_mtg
+	}
+	text = {
+		trigger = {
+			NOT = {
+				has_dlc = "Man the Guns"
+			}
+		}
+		localization_key = sst_y3_text_nonmtg
+	}
+}
+
+defined_text = {
+	name = SST_SHIP_TIERS_4
+
+	text = {
+		trigger = {
+			has_dlc = "Man the Guns"
+		}
+		localization_key = sst_y4_text_mtg
+	}
+	text = {
+		trigger = {
+			NOT = {
+				has_dlc = "Man the Guns"
+			}
+		}
+		localization_key = sst_y4_text_nonmtg
+	}
+}
