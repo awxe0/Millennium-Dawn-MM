@@ -1,0 +1,475 @@
+###SOUTH-AMERICA####
+remove_south_america = {
+	name = "RULE_REMOVE_SOUTH_AMERICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_SOUTH_AMERICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_SOUTH_AMERICA_DESC"
+	}
+}
+merge_south_america = {
+	name = "RULE_MERGE_SOUTH_AMERICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_SOUTH_AMERICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_SOUTH_AMERICA_DESC"
+	}
+}
+####AFRICA####
+remove_africa = {
+	name = "RULE_REMOVE_AFRICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_AFRICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_AFRICA_DESC"
+	}
+}
+merge_africa = {
+	name = "RULE_MERGE_AFRICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_AFRICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_AFRICA_DESC"
+	}
+}
+####Central America####
+remove_central_america = {
+	name = "RULE_REMOVE_CENTRAL_AMERICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_CENTRAL_AMERICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_CENTRAL_AMERICA_DESC"
+	}
+}
+merge_central_america = {
+	name = "RULE_MERGE_CENTRAL_AMERICA"
+	group = "MDOptimization_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_CENTRAL_AMERICA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_CENTRAL_AMERICA_DESC"
+	}
+}
+####Misc Rules####
+merge_asia = {
+	name = "RULE_MERGE_ASIA"
+	group = "MDOptimization_Misc_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_ASIA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_ASIA_DESC"
+	}
+}
+remove_arabia = {
+	name = "RULE_REMOVE_ARABIA"
+	group = "MDOptimization_Misc_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_ARABIA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_ARABIA_DESC"
+	}
+}
+merge_arabia = {
+	name = "RULE_MERGE_ARABIA"
+	group = "MDOptimization_Misc_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_ARABIA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_ARABIA_DESC"
+	}
+}
+merge_oceania = {
+	name = "RULE_MERGE_OCEANIA"
+	group = "MDOptimization_Misc_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_MERGE_OCEANIA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_MERGE_OCEANIA_DESC"
+	}
+}
+remove_oceania = {
+	name = "RULE_REMOVE_OCEANIA"
+	group = "MDOptimization_Misc_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_OCEANIA_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_OCEANIA_DESC"
+	}
+} 
+
+####DISABLE-AI####
+disable_ai_nations = {
+	name = "RULE_DISABLE_AI_NATIONS"
+	group = "MDMP_OPTIMIZATION_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_DISABLE_AI_NATIONS_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_DISABLE_AI_NATIONS_DESC"
+	}
+}
+
+####REMOVE STARTING PLANES####
+remove_starting_planes = {
+	name = "RULE_REMOVE_STARTING_PLANES"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_REMOVE_STARTING_PLANES_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REMOVE_STARTING_PLANES_DESC"
+	}
+}
+
+####Reduce Aircraft Production Cost####
+reduce_aircraft_cost = {
+	name = "RULE_REDUCE_AIRCRAFT_COST"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = a25
+		text = "RULE_OPTION_PLANES_25"
+		desc = "RULE_25_REDUCE_AIRCRAFT_COST_DESC"
+	}
+	option = {
+		name = a50
+		text = "RULE_OPTION_PLANES_50"
+		desc = "RULE_50_REDUCE_AIRCRAFT_COST_DESC"
+	}
+	option = {
+		name = a75
+		text = "RULE_OPTION_PLANES_75"
+		desc = "RULE_75_REDUCE_AIRCRAFT_COST_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_REDUCE_AIRCRAFT_COST_DESC"
+	}
+}
+
+####MOD BALANCING####
+enable_mdmp_custom_balancing = {
+	name = "RULE_ENABLE_MDMP_CUSTOM_BALANCE"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = yes
+		text = "RULE_OPTION_YES"
+		desc = "RULE_YES_ENABLE_MDMP_CUSTOM_BALANCE_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ENABLE_MDMP_CUSTOM_BALANCE_DESC"
+	}
+}
+
+####CONSTRUCTION####
+add_construction_bonus = {
+	name = "RULE_ADD_CONSTRUCTION_BONUS"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = c50
+		text = "RULE_OPTION_CONSTRUCTION_50"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	option = {
+		name = c100
+		text = "RULE_OPTION_CONSTRUCTION_100"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	option = {
+		name = c200
+		text = "RULE_OPTION_CONSTRUCTION_200"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	option = {
+		name = c300
+		text = "RULE_OPTION_CONSTRUCTION_300"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	option = {
+		name = c500
+		text = "RULE_OPTION_CONSTRUCTION_500"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	option = {
+		name = c1000
+		text = "RULE_OPTION_CONSTRUCTION_1000"
+		desc = "RULE_YES_ADD_CONSTRUCTION_BONUS_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_BONUS_OPTION_DESC"
+	}
+}
+
+####PRODUCTION####
+add_production_bonus = {
+	name = "RULE_ADD_PRODUCTION_BONUS"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = p50
+		text = "RULE_OPTION_PRODUCTION_50"
+		desc = "RULE_OPTION_PRODUCTION_50_DESC"
+	}
+	option = {
+		name = p100
+		text = "RULE_OPTION_PRODUCTION_100"
+		desc = "RULE_OPTION_PRODUCTION_100_DESC"
+	}
+	option = {
+		name = p200
+		text = "RULE_OPTION_PRODUCTION_200"
+		desc = "RULE_OPTION_PRODUCTION_200_DESC"
+	}
+	option = {
+		name = p300
+		text = "RULE_OPTION_PRODUCTION_300"
+		desc = "RULE_OPTION_PRODUCTION_300_DESC"
+	}
+	option = {
+		name = p500
+		text = "RULE_OPTION_PRODUCTION_500"
+		desc = "RULE_OPTION_PRODUCTION_500_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_BONUS_OPTION_DESC"
+	}
+}
+
+####PRODUCTION####
+add_capacity_bonus = {
+	name = "RULE_ADD_CAPACITY_BONUS"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = c25
+		text = "RULE_OPTION_CAPACITY_25"
+		desc = "RULE_YES_ADD_CAPACITY_BONUS_DESC"
+	}
+	option = {
+		name = c50
+		text = "RULE_OPTION_CAPACITY_50"
+		desc = "RULE_YES_ADD_CAPACITY_BONUS_DESC"
+	}
+	option = {
+		name = c100
+		text = "RULE_OPTION_CAPACITY_100"
+		desc = "RULE_YES_ADD_CAPACITY_BONUS_DESC"
+	}
+	option = {
+		name = c200
+		text = "RULE_OPTION_CAPACITY_200"
+		desc = "RULE_YES_ADD_CAPACITY_BONUS_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_BONUS_OPTION_DESC"
+	}
+}
+
+####FUELGAIN####
+add_fuel_bonus = {
+	name = "RULE_ADD_FUEL_BONUS"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = f50
+		text = "RULE_OPTION_FUEL_50"
+		desc = "RULE_YES_ADD_FUEL_BONUS_DESC"
+	}
+	option = {
+		name = f100
+		text = "RULE_OPTION_FUEL_100"
+		desc = "RULE_YES_ADD_FUEL_BONUS_DESC"
+	}
+	option = {
+		name = f200
+		text = "RULE_OPTION_FUEL_200"
+		desc = "RULE_YES_ADD_FUEL_BONUS_DESC"
+	}
+	option = {
+		name = f300
+		text = "RULE_OPTION_FUEL_300"
+		desc = "RULE_YES_ADD_FUEL_BONUS_DESC"
+	}
+	option = {
+		name = f500
+		text = "RULE_OPTION_FUEL_500"
+		desc = "RULE_YES_ADD_FUEL_BONUS_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_BONUS_OPTION_DESC"
+	}
+}
+
+####RESEARCH####
+add_research_bonus = {
+	name = "RULE_ADD_RESEARCH_BONUS"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	option = {
+		name = r25
+		text = "RULE_OPTION_RESEARCH_25"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	option = {
+		name = r50
+		text = "RULE_OPTION_RESEARCH_50"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	option = {
+		name = r100
+		text = "RULE_OPTION_RESEARCH_100"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	option = {
+		name = r200
+		text = "RULE_OPTION_RESEARCH_200"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	option = {
+		name = r300
+		text = "RULE_OPTION_RESEARCH_300"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	option = {
+		name = r500
+		text = "RULE_OPTION_RESEARCH_500"
+		desc = "RULE_YES_ADD_RESEARCH_BONUS_DESC"
+	}
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_BONUS_OPTION_DESC"
+	}
+}
+
+
+####FOCUSTIME####
+reduce_focus_time = {
+	name = "RULE_REDUCE_FOCUS_TIME"
+	group = "MDMP_BALANCE_RULES"
+	icon = "GFX_production_licenses"
+	default = {
+		name = no
+		text = "RULE_OPTION_NO"
+		desc = "RULE_NO_ADD_FOCS_BONUS_OPTION_DESC"
+	}
+	option = {
+		name = threequarters
+		text = "RULE_OPTION_THREEQUARTERS"
+		desc = "RULE_THREEQUARTERS_REDUCE_FOCUS_TIME_DESC"
+	}
+	option = {
+		name = half
+		text = "RULE_OPTION_HALF"
+		desc = "RULE_HALF_REDUCE_FOCUS_TIME_DESC"
+	}
+	option = {
+		name = onequarter
+		text = "RULE_OPTION_ONEQUARTER"
+		desc = "RULE_ONEQUARTER_REDUCE_FOCUS_TIME_DESC"
+	}
+	option = {
+		name = seventh
+		text = "RULE_OPTION_SEVENTH"
+		desc = "RULE_SEVENTH_REDUCE_FOCUS_TIME_DESC"
+	}
+	option = {
+		name = chaos
+		text = "RULE_OPTION_CHAOS"
+		desc = "RULE_CHAOS_REDUCE_FOCUS_TIME_DESC"
+	}
+}
