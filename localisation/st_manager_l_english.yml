@@ -1,40 +1,57 @@
 ﻿l_english:
  
- ST_STATE_MARK_FOR_TRANSFER:0 "§HMark State for Transfer§!\nMark the selected state so it can be transfered \n"
- ST_STATE_UNMARK_FOR_TRANSFER:0 "§HUnmark State§!\nUnmarks the selected state\n"
+ # Main Tool Interface
+ ST_TOOLTIP:0 "§HState Transfer Tool§!\nManage state ownership and transfers between countries"
+ transfer_states_tooltip:0 "State Transfer"
+ 
+ # State Manager - Individual State Actions
+ ST_STATE_MARK_FOR_TRANSFER:0 "§HMark State for Transfer§!\nMark the selected state so it can be transferred\n§YShortcut: Ctrl+Z§!"
+ ST_STATE_UNMARK_FOR_TRANSFER:0 "§HUnmark State§!\nUnmarks the selected state\n§YShortcut: Ctrl+Z§!"
+ 
+ # Dynamic Status (these need to match [This.mark_status] in GUI)
+ mark_status:0 "Mark State"
+ mark_status_marked:0 "Unmark State"
+ mark_status_unmarked:0 "Mark State"
+ 
+ # State marking tooltip (these need to match [This.mark_state_tooltip] in GUI)
+ mark_state_tooltip:0 ""
+ mark_state_tooltip_marked:0 "§RMarked!§!"
+ mark_state_tooltip_unmarked:0 ""
+ 
+ # Alternative naming if your code uses these
  mark_state_yes:0 ""
- mark_state_no:0 "\n  §RMarked!§!"
+ mark_state_no:0 "§RMarked!§!"
  
- MARK_ALL_STATES:0 "§HMark All States§!\n\nMark all states of this country\n\n"
- MARK_ALL_STATES_DELAYED:0 ""
+ # Subject Powers Window - Bulk Actions
+ MARK_ALL_STATES:0 "§HMark All States§!\nMark all states of this country\n§YShortcut: Ctrl+A§!"
+ MARK_ALL_STATES_DELAYED:0 "This will mark every state owned by this country for transfer."
  
- MARK_COLONIES:0 "§HMark Colonies§!\n\nMark all colonial states of this country\n\n"
- MARK_COLONIES_DELAYED:0 ""
+ CLEAR_ALL_MARKINGS:0 "§HClear All Marks§!\nEvery mark on world will be removed\n§YShortcut: Ctrl+X§!"
+ CLEAR_ALL_MARKINGS_DELAYED:0 "This will remove all transfer markings globally."
  
- CLEAR_ALL_MARKINGS:0 "§HClear All Marks§!\n\nEvery mark on world will be removed\n\n"
- CLEAR_ALL_MARKINGS_DELAYED:0 ""
-
- AWARD_STATES:0 "§HTransfer States§!\n\nTransfer marked states to this country\n\n"
+ MARK_COLONIES:0 "§HMark Colonies§!\nMark all colonial states of this country\n§YShortcut: Ctrl+C§!"
+ MARK_COLONIES_DELAYED:0 "This will mark only non-core territories for transfer."
+ 
+ # Transfer Execution
+ AWARD_STATES:0 "§HTransfer States§!\nTransfer marked states to this country\n§YShortcut: Ctrl+T§!"
  AWARD_STATES_DELAYED:0 "§RCannot transfer all owned states!§!"
  
- ST_TOOLTIP_on:0 "§HActivate 'State Transfer Tool'§!"
- ST_TOOLTIP_off:0 "§HDeactivate 'State Transfer Tool'§!"
- transfer_states_on:0 "State Transfer Tool: £trigger_no"
- transfer_states_off:0 "State Transfer Tool: £trigger_yes"
+ # Tool Toggle States
+ ST_TOOLTIP_on:0 "§HActivate 'STT'§!"
+ ST_TOOLTIP_off:0 "§HDeactivate 'STT'§!"
+ transfer_states_on:0 "STT: £trigger_no"
+ transfer_states_off:0 "STT: £trigger_yes"
  
- mark_status_marked:0   "     Unmark State "
- mark_status_unmarked:0 "      Mark State  "
- 
+ # Rules and Settings
  RULE_ALLOW_SUBJECT_TRANSFERS:0 "Transfer states between AI subjects"
  RULE_ALLOW_SUBJECT_TRANSFERS_FREE_DESC:0 "All types of subjects"
  RULE_ALLOW_SUBJECT_TRANSFERS_LOW_AUTONOMY_ONLY_DESC:0 "Only low autonomy subjects (below colony level)"
  RULE_ALLOW_SUBJECT_TRANSFERS_BLOCKED_DESC:0 "Prohibit transfer of subjects' states"
- 
  RULE_USE_NEW_TOOL:0 "Use new version of the mod"
  
+ # Action Descriptions
  GIVE_STATE_ACTION_TITLE:0 "Give states"
  GIVE_STATE_ACTION_ACTION_DESC:0 "Give states to the chosen country"
  TAKE_STATE_ACTION_TITLE:0 "Take states"
  TAKE_STATE_ACTION_ACTION_DESC:0 "Take states from the chosen country"
- 
  TRANSFER_STATE_DESC:0 "Select states that will be transferred"

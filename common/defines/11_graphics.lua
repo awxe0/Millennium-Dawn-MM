@@ -1,2 +1,3 @@
+NDefines_Graphics.NGraphics.COUNTRY_COLOR_HUE_MODIFIER = 0.0 -- 0.0
 NDefines_Graphics.NGraphics.COUNTRY_COLOR_SATURATION_MODIFIER = 0.85
 NDefines_Graphics.NGraphics.COUNTRY_COLOR_BRIGHTNESS_MODIFIER = 0.6
