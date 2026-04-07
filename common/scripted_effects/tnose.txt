@@ -1,0 +1,10 @@
+tno_fire_se = {
+	hidden_effect = {
+		if = {
+			limit = {
+				check_variable = { tno_se = 2 }
+			}
+			scoped_sound_effect = ""
+		}
+	}
+}

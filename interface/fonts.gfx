@@ -1,0 +1,35 @@
+
+bitmapfonts = {
+	### NORMAL
+
+	#Small debug font
+
+	bitmapfont = {
+		name = "garamond_12"
+		path = "gfx/fonts/garamond_12"
+		color = 0xffffffff
+	}
+
+	bitmapfont = {
+		name = "cw_3d_debug"
+		path = "gfx/fonts/garamond_12"
+		color = 0xffffffff
+	}
+
+	bitmapfont = {
+		name = "FuturaLT"
+		path = "gfx/fonts/FuturaLT"
+		color = 0xffffffff
+	}
+	
+	bitmapfont = {
+		name = "FuturaBT-Medium"
+		path = "gfx/fonts/FuturaBT-Medium"
+		color = 0xffffffff
+	}	
+	bitmapfont = {
+		name = "FuturaBT"
+		path = "gfx/fonts/FuturaBT"
+		color = 0xffffffff
+	}
+}

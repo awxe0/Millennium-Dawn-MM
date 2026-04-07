@@ -1,0 +1,38 @@
+scripted_gui = {
+	party_popularity_number = {
+		parent_window_token = top_bar
+		window_name = "rfparty_popularity_number_container"
+
+		ai_enabled = {
+			always = no
+		}
+
+		visible = {
+			is_ai = no
+			NOT = {
+				OR = {
+					any_country = { has_government = totalist }
+					any_country = { has_government = syndicalist }
+					any_country = { has_government = radical_socialist }
+					any_country = { has_government = social_democrat }
+					any_country = { has_government = social_liberal }
+					any_country = { has_government = market_liberal }
+					any_country = { has_government = social_conservative }
+					any_country = { has_government = authoritarian_democrat }
+					any_country = { has_government = paternal_autocrat }
+					any_country = { has_government = national_populist }
+					any_country = { has_government = democratic }
+					any_country = { has_government = communism }
+					any_country = { has_government = fascism }
+					any_country = { has_government = neutrality }
+				}
+			}
+		}
+
+		properties = {
+			popularity_ideology_icon = {
+				image = "[GetPopIcon]"
+			}
+		}
+	}
+}

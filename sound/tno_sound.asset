@@ -1,0 +1,620 @@
+sound = {
+	name = "tno_se_german_civil_war"
+	file = "superevents/tno_se_german_civil_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_south_african_war"
+	file = "superevents/tno_se_south_african_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_nuclear_war"
+	file = "superevents/tno_se_nuclear_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_japanese_economic_war"
+	file = "superevents/tno_se_japanese_economic_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_indonesian_war"
+	file = "superevents/tno_se_indonesian_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_great_asian_war"
+	file = "superevents/tno_se_great_asian_war.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_great_asian_war_2"
+	file = "superevents/tno_se_great_asian_war_2.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_great_asian_war_3"
+	file = "superevents/tno_se_great_asian_war_3.wav"
+	always_load = no
+}
+sound = {
+	name = "crabrave"
+	file = "menu/crabrave.wav"
+}
+sound = {
+	name = "tno_we_got_em"
+	file = "menu/tno_we_got_em.wav"
+}
+sound = {
+	name = "tno_se_italy_pf"
+	file = "superevents/tno_se_italy_pf.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_german_italian_invasion"
+	file = "superevents/tno_se_german_italian_invasion.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_the_yockey_presidency"
+	file = "superevents/tno_se_the_yockey_presidency.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_mars_landing"
+	file = "superevents/tno_se_mars_landing.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_shoot_them_down"
+	file = "superevents/tno_se_shoot_them_down.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_iberian_wars"
+	file = "superevents/tno_se_iberian_wars.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_oil_crisis"
+	file = "superevents/tno_se_oil_crisis.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_button_empty"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_big_ben_bong"
+	file = "menu/tno_big_ben_bong.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_slave_revolt"
+	file = "superevents/tno_se_slave_revolt.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_british_reunification"
+	file = "superevents/tno_british_reunification.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_zweite_nacht_der_langen_messer"
+	file = "superevents/tno_se_june_of_deceit.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_june_of_deceit"
+	file = "superevents/tno_se_june_of_deceit.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_order_44"
+	file = "superevents/tno_se_order_44.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_german_warlord_era"
+	file = "superevents/tno_se_german_warlord_era.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_ww3"
+	file = "superevents/tno_se_ww3.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_huttig_collapse"
+	file = "superevents/tno_se_huttig_collapse.wav"
+	always_load = no
+}
+
+# Göring supers
+sound = {
+	name = "tno_se_falldammerung"
+	file = "superevents/tno_se_falldammerung.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_fallrockwell"
+	file = "superevents/tno_se_fallrockwell.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_fallrot"
+	file = "superevents/tno_se_fallrot.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_fallschwarz"
+	file = "superevents/tno_se_fallschwarz.wav"
+	always_load = no
+}
+
+# British Reunification supers
+sound = {
+	name = "tno_se_british_reunification_birch"
+	file = "superevents/tno_se_british_reunification_birch.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_chesterton"
+	file = "superevents/tno_se_british_reunification_chesterton.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_jellicoe"
+	file = "superevents/tno_se_british_reunification_jellicoe.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_maudling"
+	file = "superevents/tno_se_british_reunification_maudling.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_stirling"
+	file = "superevents/tno_se_british_reunification_stirling.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_supermac"
+	file = "superevents/tno_se_british_reunification_supermac.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_thatcher"
+	file = "superevents/tno_se_british_reunification_thatcher.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_british_reunification_wilson"
+	file = "superevents/tno_se_british_reunification_wilson.wav"
+	always_load = no
+}
+
+# Russian Reunification supers
+sound = {
+	name = "tno_se_russian_unification_ab_vagner"
+	file = "superevents/tno_se_russian_unification_ab_vagner.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_ab_yemelyanov"
+	file = "superevents/tno_se_russian_unification_ab_yemelyanov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_amur"
+	file = "superevents/tno_se_russian_unification_amur.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_buryatia_authsoc"
+	file = "superevents/tno_se_russian_unification_buryatia_authsoc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_buryatia_libsoc"
+	file = "superevents/tno_se_russian_unification_buryatia_libsoc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_chita_mikhail"
+	file = "superevents/tno_se_russian_unification_chita_mikhail.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_chita_shepunov"
+	file = "superevents/tno_se_russian_unification_chita_shepunov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_father"
+	file = "superevents/tno_se_russian_unification_father.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_kemerovo"
+	file = "superevents/tno_se_russian_unification_kemerovo.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_bukharina"
+	file = "superevents/tno_se_russian_unification_komi_bukharina.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_democratic"
+	file = "superevents/tno_se_russian_unification_komi_democratic.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_gumilyov"
+	file = "superevents/tno_se_russian_unification_komi_gumilyov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_serov"
+	file = "superevents/tno_se_russian_unification_komi_serov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_shafa"
+	file = "superevents/tno_se_russian_unification_komi_shafa.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_stalina"
+	file = "superevents/tno_se_russian_unification_komi_stalina.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_suslov"
+	file = "superevents/tno_se_russian_unification_komi_suslov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_tabby"
+	file = "superevents/tno_se_russian_unification_komi_tabby.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_komi_zhdanov"
+	file = "superevents/tno_se_russian_unification_komi_zhdanov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_magadan_matkovsky"
+	file = "superevents/tno_se_russian_unification_magadan_matkovsky.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_magadan_petlin"
+	file = "superevents/tno_se_russian_unification_magadan_petlin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_magadan_werbell"
+	file = "superevents/tno_se_russian_unification_magadan_werbell.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_novosibirsk_pokryshkin"
+	file = "superevents/tno_se_russian_unification_novosibirsk_pokryshkin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_novosibirsk_shukshin"
+	file = "superevents/tno_se_russian_unification_novosibirsk_shukshin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_omsk"
+	file = "superevents/tno_se_russian_unification_omsk.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_prc"
+	file = "superevents/tno_se_russian_unification_prc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_samara_bunya"
+	file = "superevents/tno_se_russian_unification_samara_bunya.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_samara_oktan"
+	file = "superevents/tno_se_russian_unification_samara_oktan.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_samara_zykov"
+	file = "superevents/tno_se_russian_unification_samara_zykov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_sba_despot"
+	file = "superevents/tno_se_russian_unification_sba_despot.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_sba_libsoc"
+	file = "superevents/tno_se_russian_unification_sba_libsoc.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_sverdlovsk_batov"
+	file = "superevents/tno_se_russian_unification_sverdlovsk_batov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_sverdlovsk_yeltsin"
+	file = "superevents/tno_se_russian_unification_sverdlovsk_yeltsin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tomsk_bastillards"
+	file = "superevents/tno_se_russian_unification_tomsk_bastillards.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tomsk_decembrists"
+	file = "superevents/tno_se_russian_unification_tomsk_decembrists.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tomsk_humanists"
+	file = "superevents/tno_se_russian_unification_tomsk_humanists.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tomsk_modernists"
+	file = "superevents/tno_se_russian_unification_tomsk_modernists.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tyumen_kaganovich"
+	file = "superevents/tno_se_russian_unification_tyumen_kaganovich.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_tyumen_khrushchev"
+	file = "superevents/tno_se_russian_unification_tyumen_khrushchev.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_vyatka_gul"
+	file = "superevents/tno_se_russian_unification_vyatka_gul.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_vyatka_shulgin"
+	file = "superevents/tno_se_russian_unification_vyatka_shulgin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_vyatka_solzh"
+	file = "superevents/tno_se_russian_unification_vyatka_solzh.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_wrrf_thuka"
+	file = "superevents/tno_se_russian_unification_wrrf_thuka.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_wrrf_zhukov"
+	file = "superevents/tno_se_russian_unification_wrrf_zhukov.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_yagoda_party"
+	file = "superevents/tno_se_russian_unification_yagoda_party.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_yagoda_state"
+	file = "superevents/tno_se_russian_unification_yagoda_state.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_the_african_devastation"
+	file = "superevents/tno_se_the_african_devastation.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_african_crisis"
+	file = "superevents/tno_se_african_crisis.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_west_african_war_1"
+	file = "superevents/tno_se_west_african_war_1.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_west_african_war_2"
+	file = "superevents/tno_se_west_african_war_2.wav"
+	always_load = no
+}
+sound = {
+	name = "tno_se_west_african_war_3"
+	file = "superevents/tno_se_west_african_war_3.wav"
+	always_load = no
+}
+
+# Something special
+sound = {
+	name = "tno_a_grand_tomorrow"
+	file = "menu/a_grand_tomorrow.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_gunfire"
+	file = "menu/gunfire_sound_effect.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_jushin_coup"
+	file = "superevents/tno_se_jushin_coup.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_mutos_coup"
+	file = "superevents/tno_se_mutos_coup.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_burgundian_spring"
+	file = "superevents/tno_se_burgundian_spring.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_pony_bukharin"
+	file = "superevents/tno_se_russian_unification_pony_bukharin.wav"
+	always_load = no
+}
+
+sound = {
+	name = "tno_se_russian_unification_pony_bukharin_sunset"
+	file = "superevents/tno_se_russian_unification_pony_bukharin_sunset.wav"
+	always_load = no
+}
+
+##USE SUPER_EVENT_MAKER_GUI IN USEFUL PYTHON PROGRAMS TO MAKE NEW SUPER EVENTS##
+
+sound = {
+	name = "distance_airplane_jet_idle"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_crash"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_mechanized_units_mg_fire"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_light_fire"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_ger_jet_fire"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_medium_idle_01"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_idle"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "distance_airplane_heavy_idle_01"
+	file = "gui/tno_button_empty.wav"
+	always_load = no
+}
+sound = {
+	name = "ui_research_tab_helicopter"
+	file = "menu/ui_research_tab_helicopter.wav"
+}
+sound = {
+	name = "ui_research_tab_horse"
+	file = "menu/ui_research_tab_horse.wav"
+}
+sound = {
+	name = "pony_magic_sound"
+	file = "menu/pony_magic_sound.wav"
+}
+sound = {
+	name = "MAGIC_OF_FRIENDSHIP"
+	file = "menu/MAGIC_OF_FRIENDSHIP.wav"
+}

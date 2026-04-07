@@ -1,0 +1,1175 @@
+TNO_Germany_Italy_has_conflict = {
+	OR = {
+		GER = {
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		ITA = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SRI = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		PAP = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SIC = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		POL = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SWI = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		AUS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		HUN = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		ROM = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		CZE = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		BEL = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		HOL = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		LUX = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Balkans_has_conflict = {
+	OR = {
+		YUG = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SER = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		CRO = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		BUL = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		ALB = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		GRE = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_France_Burgundy_Iberia_has_conflict = {
+	OR = {
+		FRA = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		OCC = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		BRI = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SPR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		POR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		NFA = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Ostland_Moscow_has_conflict = {
+	OR = {
+		EST = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		BAT = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		LAT = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		LIT = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SOV = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		RUS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		BLR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		WHR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		UKR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		GEO = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		ARM = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		AZR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		DKB = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		KLY = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		KUB = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		MTR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = SOV
+					is_core_of = RUS
+				}
+				is_on_continent = europe
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_West_Russia_has_conflict = {
+	OR = {
+		SOV = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		RUS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = SOV
+					is_claimed_by = SOV
+					is_core_of = RUS
+					is_claimed_by = RUS
+				}
+				is_on_continent = asia
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_Central_Asia_has_conflict = {
+	OR = {
+		RUS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SOV = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		KAZ = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		UZB = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		TMS = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		TAJ = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		KYR = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		ALO = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		TRK = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = SOV
+					is_claimed_by = SOV
+					is_core_of = RUS
+					is_claimed_by = RUS
+				}
+				is_on_continent = asia
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_Central_Siberia_has_conflict = {
+	OR = {
+		SOV = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		RUS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		TRM = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = SOV
+					is_core_of = RUS
+				}
+				is_on_continent = asia
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_Far_Eastern_Russia_has_conflict = {
+	OR = {
+		SOV = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		RUS = { 
+			OR = { 
+				capital_scope = { is_on_continent = europe } 
+				capital_scope = { is_on_continent = asia } 
+			}
+			has_war = yes
+		}
+		TRM = { 
+			OR = {
+				capital_scope = { is_on_continent = europe } 
+				capital_scope = { is_on_continent = asia } 
+			}
+			has_war = yes
+		}
+		TRB = { 
+			OR = {
+				capital_scope = { is_on_continent = europe } 
+				capital_scope = { is_on_continent = asia } 
+			}
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = SOV
+					is_core_of = RUS
+				}
+				is_on_continent = asia
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_Scandinavia_has_conflict = {
+	OR = {
+		NOR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SWE = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		FIN = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SMI = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Madagascar_has_conflict = {
+	OR = {
+		MAD = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MAG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = MAG
+					is_claimed_by = MAG
+					is_core_of = MAD
+					is_claimed_by = MAD
+				}
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_England_has_conflict = {
+	OR = {
+		ENG = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SCO = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		SCT = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		WLS = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		WAL = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+		IRE = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_North_SAM_has_conflict = {
+	OR = {
+		COL = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		VEN = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		ECU = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		PRU = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		BOL = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		CAF = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		PAN = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_South_SAM_has_conflict = {
+	OR = {
+		BRA = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		PAR = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		URG = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		ARG = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		FOP = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+		CHL = { 
+			capital_scope = { is_on_continent = south_america } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Caribbean_has_conflict = {
+	OR = {
+		CUB = { 
+			OR = {
+				capital_scope = { is_on_continent = south_america }
+				capital_scope = { is_on_continent = central_america }
+			} 
+			has_war = yes
+		}
+		HAI = { 
+			OR = {
+				capital_scope = { is_on_continent = south_america }
+				capital_scope = { is_on_continent = central_america }
+			}  
+			has_war = yes
+		}
+		DOM = { 
+			OR = {
+				capital_scope = { is_on_continent = south_america }
+				capital_scope = { is_on_continent = central_america }
+			} 
+			has_war = yes
+		}
+		CAF = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Indonesia_has_conflict = {
+	OR = {
+		INS = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		DEI = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		MAL = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		GEA = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		PNG = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Australia_has_conflict = {
+	OR = {
+		AST = { 
+			capital_scope = { is_on_continent = australia } 
+			has_war = yes
+		}
+		NZL = { 
+			capital_scope = { is_on_continent = australia } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_USA_Canada_has_conflict = {
+	OR = {
+		USA = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		CAL = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		WCC = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		TEX = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		TXS = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		CSA = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		COR = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		BBR = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		NEE = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		NEE = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		CAN = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Mexico_Central_has_conflict = {
+	OR = {
+		MEX = { 
+			capital_scope = { is_on_continent = north_america } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				is_core_of = MEX
+			}
+			has_war = yes
+		}
+		GUA = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+		HON = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+		ELS = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+		NIC = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+		COS = { 
+			capital_scope = { is_on_continent = central_america } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_South_East_Asia_has_conflict = {
+	OR = {
+		VIN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		LAO = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		CAM = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SIA = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		BRM = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		PHI = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		INC = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_China_has_conflict = {
+	OR = {
+		PRC = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SIK = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		MON = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		MEN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		MAN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		XSM = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SHX = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		TIB = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		CHI = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		YUN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		GXC = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		PRK = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		KOR = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		JAP = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		FNG = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SZC = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		LEP = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		QIE = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SQI = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		LEC = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		ANQ = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		HNN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_India_has_conflict = {
+	OR = {
+		RAJ = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		PAK = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		AFG = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		BAN = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SKK = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		SKM = { 
+			capital_scope = { is_on_continent = india } 
+			has_war = yes
+		}
+		NEP = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		BHU = { 
+			capital_scope = { is_on_continent = asia } 
+			has_war = yes
+		}
+		DEH = { 
+			capital_scope = { is_on_continent = india } 
+			has_war = yes
+		}
+		BHC = { 
+			capital_scope = { is_on_continent = india } 
+			has_war = yes
+		}
+		PRF = { 
+			capital_scope = { is_on_continent = india } 
+			has_war = yes
+		}
+	}
+}
+
+TNO_Egypt_has_conflict = {
+	OR = {
+		EGY = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				is_core_of = EGY
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_North_Africa_has_conflict = {
+	OR = {
+		LBA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		TUN = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ALG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MOR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		WES = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		NFA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = ALG
+					is_claimed_by = ALG
+					is_core_of = TUN
+					is_claimed_by = TUN
+				}
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_West_Africa_has_conflict = {
+	OR = {
+		MRT = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MAL = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		NER = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BFR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MLI = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		SEN = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		GAM = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		GNB = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		GNA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		SIE = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		LIB = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		IVO = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		GHA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		TOG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		DAH = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		VOL = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		NGR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KBR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		NGA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BIA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		CMR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		CHA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		CAR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		CIV = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MAF = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		CEA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = IVO
+					is_claimed_by = IVO
+					is_core_of = NGA
+					is_claimed_by = NGA
+					is_core_of = GHA
+					is_claimed_by = GHA
+					is_core_of = VOL
+					is_claimed_by = VOL
+				}
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_East_Africa_has_conflict = {
+	OR = {
+		SUD = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ERI = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ETH = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		AFA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		DJI = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		SOM = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = ETH
+					is_claimed_by = ETH
+					is_core_of = SOM
+					is_claimed_by = SOM
+					is_core_of = ERI
+					is_claimed_by = ERI
+				}
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_South_Africa_has_conflict = {
+	OR = {
+		EQG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		TKE = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		GAB = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		RCG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KOG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		COG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MSF = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		LPD = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KIV = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		UMN = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KAT = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		TZN = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KEN = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ANG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BAR = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ZAM = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ANG = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		ZIM = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MZB = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		NMB = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BOT = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		SAF = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		UGA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		RWA = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BRD = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		KIK = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		BRT = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		MLW = { 
+			capital_scope = { is_on_continent = africa } 
+			has_war = yes
+		}
+		any_country = {
+			any_owned_state = {
+				OR = {
+					is_core_of = COG
+					is_claimed_by = COG
+					is_core_of = GAB
+					is_claimed_by = GAB
+					is_core_of = SAF
+					is_claimed_by = SAF
+				}
+				is_on_continent = africa
+			}
+			has_war = yes
+		}
+	}
+}
+
+TNO_Middle_East_has_conflict = {
+	OR = {
+		any_country = {
+			capital_scope = { is_on_continent = middle_east } 
+			has_war = yes
+		}
+		TUR = { 
+			capital_scope = { is_on_continent = europe } 
+			has_war = yes
+		}
+	}
+}

@@ -1,0 +1,46 @@
+add_namespace = nuclearwar
+
+country_event = {
+	id = nuclearwar.1
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event nuclearwar.1"
+		set_global_flag = tno_speed_warning
+	}
+	title = nuclearwar.1.t
+	desc = nuclearwar.1.d
+	picture = GFX_report_event_missile
+
+	is_triggered_only = yes
+	timeout_days = 2
+
+	option = {
+		name = nuclearwar.1.a
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { has_global_flag = TNO_my_world_is_on_fire_how_about_yours }
+				}
+				fire_nuclear_war = yes
+			}
+		}
+	}
+}
+country_event = {
+	id = nuclearwar.900
+	title = nuclearwar.900.t
+	desc = nuclearwar.900.d
+	is_triggered_only = yes
+	timeout_days = 2
+	option = {
+		name = nuclearwar.900.a
+		hidden_effect = {
+			every_country = {
+			ZZZ = {
+				annex_country = {
+					target = PREV
+				}
+			}
+		}
+	}
+	}
+}

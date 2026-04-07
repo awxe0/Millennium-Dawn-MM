@@ -1,0 +1,105 @@
+defined_text = {
+	name = getkrsubideo
+	text = {
+		trigger = {
+			has_country_leader_ideology = totalist_subtype
+		}
+		localization_key = totalist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = syndicalist_subtype
+		}
+		localization_key = syndicalist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = radical_socialist_subtype
+		}
+		localization_key = radical_socialist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = social_democrat_subtype
+		}
+		localization_key = social_democrat
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = social_liberal_subtype
+		}
+		localization_key = social_liberal
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = market_liberal_subtype
+		}
+		localization_key = market_liberal
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = social_conservative_subtype
+		}
+		localization_key = social_conservative
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = succubus_assimilationism 
+		}
+		localization_key = succubus_assimilationism 
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = succubus_slavery 
+		}
+		localization_key = succubus_slavery 
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = goddess_system 
+		}
+		localization_key = goddess_system 
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = authoritarian_democrat_subtype
+		}
+		localization_key = authoritarian_democrat
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = paternal_autocrat_subtype
+		}
+		localization_key = paternal_autocrat
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = national_populist_subtype
+		}
+		localization_key = national_populist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = valkist_subtype
+		}
+		localization_key = valkist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = vanguardist_subtype
+		}
+		localization_key = vanguardist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = collectivist_subtype
+		}
+		localization_key = collectivist
+	}
+	text = {
+		trigger = {
+			has_country_leader_ideology = libertarian_socialist_subtype
+		}
+		localization_key = libertarian_socialist
+	}
+}

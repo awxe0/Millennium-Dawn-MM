@@ -1,0 +1,88 @@
+scripted_gui = {
+	party_popularity_number = {
+		parent_window_token = top_bar
+		window_name = "kxparty_popularity_number_container"
+
+		ai_enabled = {
+			always = no
+		}
+		
+		visible = {
+			is_ai = no
+			NOT = {
+				OR = {
+					any_country = { has_government = accelerationism }
+					any_country = { has_government = anarchism }
+					any_country = { has_government = vanguard_socialism }
+					any_country = { has_government = popular_socialism }
+					any_country = { has_government = revisionist_socialism }
+					any_country = { has_government = progressivism }
+					any_country = { has_government = liberalism }
+					any_country = { has_government = right_authoritarianism }
+					any_country = { has_government = despotism }
+					any_country = { has_government = reactionism }
+				}
+			}
+		}
+		
+		triggers = {
+			totalist_icon_visible = {
+				has_government = totalist
+			}
+			syndicalist_icon_visible = {
+				has_government = syndicalist
+			}
+			radical_socialist_icon_visible = {
+				has_government = radical_socialist
+			}
+			social_democrat_icon_visible = {
+				has_government = social_democrat
+			}
+			social_liberal_icon_visible = {
+				has_government = social_liberal
+			}
+			market_liberal_icon_visible = {
+				has_government = market_liberal
+			}
+			social_conservative_icon_visible = {
+				has_government = social_conservative
+			}
+			authoritarian_democrat_icon_visible = {
+				has_government = authoritarian_democrat
+			}
+			paternal_autocrat_icon_visible = {
+				has_government = paternal_autocrat
+			}
+			national_populist_icon_visible = {
+				has_government = national_populist
+			}
+			democratic_icon_visible = {
+				has_government = democratic
+			}
+			communism_icon_visible = {
+				has_government = communism
+			}
+			fascism_icon_visible = {
+				has_government = fascism
+			}
+			neutrality_icon_visible = {
+				has_government = neutrality
+			}
+			nationalist_icon_visible = {
+				has_government = nationalist
+			}
+			valkist_icon_visible = {
+				has_government = valkist
+			}
+			libertarian_socialist_icon_visible = {
+				has_government = libertarian_socialist
+			}
+			collectivist_icon_visible = {
+				has_government = collectivist
+			}
+			vanguardist_icon_visible = {
+				has_government = vanguardist
+			}
+		}
+	}
+}
