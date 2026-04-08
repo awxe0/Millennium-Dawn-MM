@@ -24,38 +24,4 @@ It refines Millennium Dawn into a more playable and optimized experience by redu
 
 <img width="600" height="75" alt="MDMM Steam Banner - Patch" src="https://github.com/user-attachments/assets/c4ac10d6-76e3-4840-822a-b27c809aecf6" />
 
-**Update v1.3 [5ale]**
-
-**● Highlights**
-
-- UI has been replaced with complete TNO GUI.
-- Updated for compatibility with version 1.17.
-- Significantly reduced the overall mod file size.
-- Updated for compatibility with the latest Millennium Dawn update.
-
-**● Additions**
-
-- Added Coring Button, Coring with Compliance, State Transfer Tool and Toolpack mod.
-
-**● Adjustments and Balance**
-
-- Agencies are free.
-- Increased planning bonus.
-- Modified terrain penalties.
-- Everyone can create/join factions.
-- Political Power gain increased by 50%.
-- Made fuel lend-lease not take convoys.
-- Updated the Millennium Dawn +Turkey mod to the latest version.
-- Removes population growth and replaces it with max factories in the state. This is to both reduce desyncs and lag.
-
-**● GFX/UI**
-
-- The logo has been renewed.
-- UI has been replaced with complete TNO GUI.
-- Map visuals have been adjusted to a darker version.
-
-**● Bugfixes**
-
-- Many bugs have been fixed.
-
 You can view all patch notes by clicking here. https://steamcommunity.com/sharedfiles/filedetails/changelog/3009657184
