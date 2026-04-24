@@ -1,0 +1,3693 @@
+spriteTypes = {
+
+	## DO NOT REMOVE
+	spriteType={
+		name = "GFX_idea_traits_strip"
+		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
+		noOfFrames = 18
+	}
+	spriteType ={
+		name = "GFX_idea_arm_foreign_legion_idea"
+		texturefile = "gfx/interface/ideas/armenia/arm_foreign_legion_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_belarusian_national_state"
+		texturefile = "gfx/interface/ideas/belarus/belarusian_national_state.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_bel_culture"
+		texturefile = "gfx/interface/ideas/belarus/BLR_bel_culture.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_boc_protest"
+		texturefile = "gfx/interface/ideas/belarus/BLR_boc_protest.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_chernigov_resistance_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_chernigov_resistance_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_commi_propaganda"
+		texturefile = "gfx/interface/ideas/belarus/blr_commi_propaganda.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_economic_bad_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_economic_bad_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_economic_full_full_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_economic_full_full_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_economic_full_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_economic_full_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_efficient_bureaucratic_system"
+		texturefile = "gfx/interface/ideas/belarus/blr_efficient_bureaucratic_system.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_fiveyears_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_fiveyears_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_five_year_plan"
+		texturefile = "gfx/interface/ideas/belarus/BLR_five_year_plan.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_htp_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_htp_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_iran_attack_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_iran_attack_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_iran_oil_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_iran_oil_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_labour_justice_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_labour_justice_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_litbel_constitution"
+		texturefile = "gfx/interface/ideas/belarus/blr_litbel_constitution.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_litbel_cp"
+		texturefile = "gfx/interface/ideas/belarus/blr_litbel_cp.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_litbel_passport"
+		texturefile = "gfx/interface/ideas/belarus/blr_litbel_passport.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_lithuanian_workers"
+		texturefile = "gfx/interface/ideas/belarus/blr_lithuanian_workers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_lit_culture"
+		texturefile = "gfx/interface/ideas/belarus/BLR_lit_culture.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_lit_protests"
+		texturefile = "gfx/interface/ideas/belarus/BLR_lit_protests.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_lukaka_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_lukaka_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_lukashist_opposition_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_lukashist_opposition_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_BLR_magdeburg_law"
+		texturefile = "gfx/interface/ideas/belarus/BLR_magdeburg_law.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_metro_minsk_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_metro_minsk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_monarchy_cyber_hussar"
+		texturefile = "gfx/interface/ideas/belarus/blr_monarchy_cyber_hussar.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_antiwest_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_antiwest_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_firewall_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_firewall_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_molot_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_molot_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_molot_sepr_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_molot_sepr_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_rne_sobor_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_rne_sobor_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_nazbol_sepr_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_nazbol_sepr_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_new_patriotism"
+		texturefile = "gfx/interface/ideas/belarus/blr_new_patriotism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_polish_attack_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_polish_attack_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_politic_communism"
+		texturefile = "gfx/interface/ideas/belarus/blr_politic_communism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_politic_communism2"
+		texturefile = "gfx/interface/ideas/belarus/blr_politic_communism2.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_red_army"
+		texturefile = "gfx/interface/ideas/belarus/blr_red_army.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_red_army2"
+		texturefile = "gfx/interface/ideas/belarus/blr_red_army2.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_red_army3"
+		texturefile = "gfx/interface/ideas/belarus/blr_red_army3.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_red_army4"
+		texturefile = "gfx/interface/ideas/belarus/blr_red_army4.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_rublitas"
+		texturefile = "gfx/interface/ideas/belarus/blr_rublitas.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_rus_vpk_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_rus_vpk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_constitution_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_constitution_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_damaged_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_damaged_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_health_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_health_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_reorg_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_reorg_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_system_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_system_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_shush_thirdway_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_shush_thirdway_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_smersh"
+		texturefile = "gfx/interface/ideas/belarus/blr_smersh.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_soviet_education"
+		texturefile = "gfx/interface/ideas/belarus/blr_soviet_education.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_strong_president"
+		texturefile = "gfx/interface/ideas/belarus/blr_strong_president.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_tamojvya_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_tamojvya_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_unionstate_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_unionstate_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_united_people"
+		texturefile = "gfx/interface/ideas/belarus/blr_united_people.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_vpk_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_vpk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_vs_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_vs_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_wind_farms_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_wind_farms_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_admin_purge"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_admin_purge.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_economic"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_economic.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_neultrality"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_neultrality.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_parlament_dominance"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_parlament_dominance.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_resistance_idea"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_resistance_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_blr_zmagar_russians"
+		texturefile = "gfx/interface/ideas/belarus/blr_zmagar_russians.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_desovietisation_idea"
+		texturefile = "gfx/interface/ideas/belarus/desovietisation_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_lithianian_past"
+		texturefile = "gfx/interface/ideas/belarus/lithianian_past.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_monarch_cyber"
+		texturefile = "gfx/interface/ideas/belarus/monarch_cyber.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nationalisation_russian_enterprice"
+		texturefile = "gfx/interface/ideas/belarus/nationalisation_russian_enterprice.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_red_christianity"
+		texturefile = "gfx/interface/ideas/belarus/red_christianity.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_Religion_baltic"
+		texturefile = "gfx/interface/ideas/belarus/Religion_baltic.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sbb_idea"
+		texturefile = "gfx/interface/ideas/belarus/sbb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sez_idea"
+		texturefile = "gfx/interface/ideas/belarus/sez_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bombing_fallout"
+		texturefile = "gfx/interface/ideas/bombing_fallout.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_ameriabank_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_ameriabank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_ardshinbank_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_ardshinbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_artsakh_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_artsakh_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_cjsc_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_cjsc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_eraz_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_eraz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_evoca_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_evoca_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_hrazdan_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_hrazdan_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_hsbc_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_hsbc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_ineco_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_ineco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_marianna_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_marianna_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_mlmining_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_mlmining_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_shokagh_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_shokagh_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_spayka_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_spayka_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_teghout_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_teghout_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_tobacco_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_tobacco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_ucom_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_ucom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_armenia_veon_idea"
+		texturefile = "gfx/interface/ideas/companies/ARM/generic_company_armenia_veon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_abb_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_abb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_airlines_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_airlines_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_atabank_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_atabank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_azercell_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_azercell_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_azerigaz_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_azerigaz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_ganja_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_ganja_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_azerbaijan_soca_idea"
+		texturefile = "gfx/interface/ideas/companies/AZE/generic_company_azerbaijan_soca_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_belarus_belshina_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_belarus_belshina_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_belarus_bjd_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_belarus_bjd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_belarus_mtz_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_belarus_mtz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_belarus_mzkt_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_belarus_mzkt_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_bankgrowthbelarus_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_bankgrowthbelarus_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belagrobank_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belagrobank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belarusbank_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belarusbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belavia_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belavia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belavtodor_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belavtodor_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belaz_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belaz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belenego_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belenego_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belinvestbank_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belinvestbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belkal_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belkal_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_belneft_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_belneft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_bmz_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_bmz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_borimed_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_borimed_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_gomselmash_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_gomselmash_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_blr_kommunarka_idea"
+		texturefile = "gfx/interface/ideas/companies/BLR/generic_company_blr_kommunarka_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_agriculturebank_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_agriculturebank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_aigo_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_aigo_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_airlines_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_airlines_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_alibaba_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_alibaba_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_baidu_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_baidu_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_brilliance_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_brilliance_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_cnook_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_cnook_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_constbank_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_constbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_icbc_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_icbc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_lenovo_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_lenovo_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_china_tensent_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_china_tensent_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_chi_construct_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_chi_construct_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_chi_huawei_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_chi_huawei_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_chi_petrochina_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_chi_petrochina_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_chi_telecom_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_chi_telecom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_chi_xiaomi_idea"
+		texturefile = "gfx/interface/ideas/companies/CHI/generic_company_chi_xiaomi_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_airways_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_airways_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_astrazeneca_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_astrazeneca_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_barclays_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_barclays_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_bp_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_bp_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_btgroup_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_btgroup_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_diageo_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_diageo_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_gsk_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_gsk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_linde_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_linde_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_natwestgroup_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_natwestgroup_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_rb_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_rb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_riotonto_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_riotonto_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_shell_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_shell_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_england_unilever_idea"
+		texturefile = "gfx/interface/ideas/companies/ENG/generic_company_england_unilever_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_chanel_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_chanel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_loreal_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_loreal_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_lvmh_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_lvmh_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_schneider_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_schneider_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_total_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_total_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_france_vinci_idea"
+		texturefile = "gfx/interface/ideas/companies/FRA/generic_company_france_vinci_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_auto_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_auto_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_bank_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_bank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_clothing_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_clothing_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_construction_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_construction_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_dist_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_dist_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_electirc_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_electirc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_food_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_food_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_good_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_good_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_pharma_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_pharma_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_steel_idea"
+		texturefile = "gfx/interface/ideas/companies/Generic/generic_company_steel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_bechtle_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_bechtle_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_deutsche_bahn_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_deutsche_bahn_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_kaufland_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_kaufland_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_landesbank_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_landesbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_lufthansa_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_lufthansa_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_germany_software_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_germany_software_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_bmw_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_bmw_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_merz_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_merz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_porsche_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_porsche_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_sap_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_sap_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_siemens_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_siemens_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_telekom_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_telekom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ger_volks_idea"
+		texturefile = "gfx/interface/ideas/companies/GER/generic_company_ger_volks_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_abn_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_abn_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_airlines_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_airlines_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_amstel_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_amstel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_bam_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_bam_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_dsm_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_dsm_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_exact_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_exact_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_holland_grolsch_idea"
+		texturefile = "gfx/interface/ideas/companies/HOL/generic_company_holland_grolsch_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_asl_airline"
+		texturefile = "gfx/interface/ideas/companies/HUN/asl_airline.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bkv_zrt"
+		texturefile = "gfx/interface/ideas/companies/HUN/bkv_zrt.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_CIB_bank"
+		texturefile = "gfx/interface/ideas/companies/HUN/CIB_bank.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_cityline_hungary"
+		texturefile = "gfx/interface/ideas/companies/HUN/cityline_hungary.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_egis"
+		texturefile = "gfx/interface/ideas/companies/HUN/egis.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_FHB_bank"
+		texturefile = "gfx/interface/ideas/companies/HUN/FHB_bank.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ganz_works"
+		texturefile = "gfx/interface/ideas/companies/HUN/ganz_works.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_gedeon_richter"
+		texturefile = "gfx/interface/ideas/companies/HUN/gedeon_richter.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_iwiw"
+		texturefile = "gfx/interface/ideas/companies/HUN/iwiw.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_mbh_bank"
+		texturefile = "gfx/interface/ideas/companies/HUN/mbh_bank.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_mol_group"
+		texturefile = "gfx/interface/ideas/companies/HUN/mol_group.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_mvm_group"
+		texturefile = "gfx/interface/ideas/companies/HUN/mvm_group.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_otp_bank"
+		texturefile = "gfx/interface/ideas/companies/HUN/otp_bank.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_travel_service_hungary"
+		texturefile = "gfx/interface/ideas/companies/HUN/travel_service_hungary.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ubm_group"
+		texturefile = "gfx/interface/ideas/companies/HUN/ubm_group.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_enel_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_enel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_eni_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_eni_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_ferarri_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_ferarri_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_intesa_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_intesa_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_moncler_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_moncler_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_mundys_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_mundys_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_prada_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_prada_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_slam_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_slam_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_italy_unicredit_idea"
+		texturefile = "gfx/interface/ideas/companies/ITA/generic_company_italy_unicredit_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_japan_suzuki_idea"
+		texturefile = "gfx/interface/ideas/companies/JAP/generic_company_japan_suzuki_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_japan_toyota_idea"
+		texturefile = "gfx/interface/ideas/companies/JAP/generic_company_japan_toyota_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_doosan_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_doosan_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_hanjin_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_hanjin_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_hyundai_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_hyundai_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_kia_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_kia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_lg_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_lg_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_lotte_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_lotte_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_posco_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_posco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_samsung_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_samsung_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_korea_sk_idea"
+		texturefile = "gfx/interface/ideas/companies/KOR/generic_company_korea_sk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_crne_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_crne_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_energy_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_energy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_nlb_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_nlb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_telekom_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_telekom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_unipro_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_unipro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_montenegro_voli_idea"
+		texturefile = "gfx/interface/ideas/companies/MNT/generic_company_montenegro_voli_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_aliorbank_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_aliorbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_arrinera_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_arrinera_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_asseco_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_asseco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_bgkbank_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_bgkbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_cdprojectred_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_cdprojectred_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_energa_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_energa_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_era_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_era_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_grupa_azoty_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_grupa_azoty_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_grupa_gornica_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_grupa_gornica_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_intercars_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_intercars_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_ITMAGINATION_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_ITMAGINATION_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_jsw_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_jsw_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_kghm_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_kghm_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_lotos_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_lotos_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_lot_airline_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_lot_airline_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_mbank_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_mbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_melex_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_melex_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_orlen_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_orlen_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_pge_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_pge_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_pkobank_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_pkobank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_pkp_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_pkp_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_polsatbox_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_polsatbox_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_polsat_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_polsat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_solaris_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_solaris_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_tauron_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_tauron_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_tmobile_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_tmobile_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_poland_ursus_idea"
+		texturefile = "gfx/interface/ideas/companies/POL/generic_company_poland_ursus_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_atomic_four_company"
+		texturefile = "gfx/interface/ideas/companies/POL/VG_atomic_four_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_saudi_aramco_idea"
+		texturefile = "gfx/interface/ideas/companies/SAU/generic_company_saudi_aramco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_saudi_energy_idea"
+		texturefile = "gfx/interface/ideas/companies/SAU/generic_company_saudi_energy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_saudi_rahji_idea"
+		texturefile = "gfx/interface/ideas/companies/SAU/generic_company_saudi_rahji_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_saudi_riyad_idea"
+		texturefile = "gfx/interface/ideas/companies/SAU/generic_company_saudi_riyad_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_eset_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_eset_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_national_bank_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_national_bank_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_o2_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_o2_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_OFZ_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_OFZ_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_raven_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_raven_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_slovenske_elektrarne_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_slovenske_elektrarne_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_slovnaft_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_slovnaft_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_sygic_company"
+		texturefile = "gfx/interface/ideas/companies/SLO/SLO_sygic_company.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_beeline_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_beeline_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_lukoil_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_lukoil_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_mechel_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_mechel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_nornickel_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_nornickel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_northwestgsm_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_northwestgsm_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_phosagro_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_phosagro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_raoeas_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_raoeas_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rosatom_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rosatom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rosselhozbank_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rosselhozbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rostech_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rostech_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rostelekom_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rostelekom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rusal_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rusal_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_rushydro_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_rushydro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_severstal_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_severstal_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_sibneft_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_sibneft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_sibur_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_sibur_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_skolkovo_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_skolkovo_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_slavneft_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_slavneft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_tele2_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_tele2_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_vkus_ochka_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_vkus_ochka_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_vk_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_vk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_russia_yukos_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_russia_yukos_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_aeroflot_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_aeroflot_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_alpha_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_alpha_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_alrosa_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_alrosa_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_efko_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_efko_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_evraz_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_evraz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_gazpromneft_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_gazpromneft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_gazprom_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_gazprom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_interrao_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_interrao_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_kaspersky_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_kaspersky_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_megaphone_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_megaphone_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_miratorg_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_miratorg_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_mtss_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_mtss_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_mts_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_mts_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_rjd_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_rjd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_rosagro_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_rosagro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_rosneft_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_rosneft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_sberbank_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_sberbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_sber_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_sber_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_vtb_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_vtb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_sov_yandex_idea"
+		texturefile = "gfx/interface/ideas/companies/SOV/generic_company_sov_yandex_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_acs_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_acs_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_banco_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_banco_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_iberdrola_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_iberdrola_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_inditex_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_inditex_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_repsol_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_repsol_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_spain_telefonica_idea"
+		texturefile = "gfx/interface/ideas/companies/SPR/generic_company_spain_telefonica_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_taiwan_formosa_idea"
+		texturefile = "gfx/interface/ideas/companies/TAI/generic_company_taiwan_formosa_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_taiwan_foxcon_idea"
+		texturefile = "gfx/interface/ideas/companies/TAI/generic_company_taiwan_foxcon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_taiwan_mediatek_idea"
+		texturefile = "gfx/interface/ideas/companies/TAI/generic_company_taiwan_mediatek_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_taiwan_tsmc_idea"
+		texturefile = "gfx/interface/ideas/companies/TAI/generic_company_taiwan_tsmc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_bim_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_bim_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_enka_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_enka_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_erdemir_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_erdemir_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_garanti_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_garanti_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_koc_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_koc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_qnb_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_qnb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_turkey_turkcell_idea"
+		texturefile = "gfx/interface/ideas/companies/TUR/generic_company_turkey_turkcell_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_atb_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_atb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_avto_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_avto_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_kryw_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_kryw_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_miskbud_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_miskbud_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_nafta_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_nafta_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_obolon_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_obolon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_ukraine_roshen_idea"
+		texturefile = "gfx/interface/ideas/companies/UKR/generic_company_ukraine_roshen_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_abode_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_abode_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_alphabet_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_alphabet_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_amazon_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_amazon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_amd_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_amd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_apple_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_apple_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_att_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_att_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_bankamerica_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_bankamerica_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_berkshire_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_berkshire_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_chevron_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_chevron_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_citygroup_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_citygroup_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_cocacolahbsc_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_cocacolahbsc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_cocacola_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_cocacola_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_comcast_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_comcast_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_exxon_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_exxon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_ford_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_ford_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_ge_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_ge_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_homedepot_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_homedepot_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_ibm_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_ibm_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_jpmorgan_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_jpmorgan_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_kroger_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_kroger_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_marathon_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_marathon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_microsoft_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_microsoft_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_nvidia_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_nvidia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_oracle_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_oracle_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_p&g_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_p&g_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_tesla_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_tesla_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_unitedhealth_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_unitedhealth_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_wallmart_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_wallmart_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_company_usa_westinghouse_idea"
+		texturefile = "gfx/interface/ideas/companies/USA/generic_company_usa_westinghouse_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_electric_grid"
+		texturefile = "gfx/interface/ideas/economy/electric_grid.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_capa_use"
+		texturefile = "gfx/interface/ideas/economy/generic_capa_use.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_lack_of_fuel"
+		texturefile = "gfx/interface/ideas/economy/lack_of_fuel.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_rentier_state"
+		texturefile = "gfx/interface/ideas/economy/rentier_state.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_CSTO_air_exercises"
+		texturefile = "gfx/interface/ideas/generic/CSTO_air_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_CSTO_army_exercises"
+		texturefile = "gfx/interface/ideas/generic/CSTO_army_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_CSTO_navy_exercises"
+		texturefile = "gfx/interface/ideas/generic/CSTO_navy_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_CSTO_research_sharing"
+		texturefile = "gfx/interface/ideas/generic/CSTO_research_sharing.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_anticorruption_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_anticorruption_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_army_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_army_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_class_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_class_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_commissariat_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_commissariat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_equality_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_equality_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_fiveyear_bad_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_fiveyear_bad_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_fiveyear_good_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_fiveyear_good_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_fiveyear_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_fiveyear_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_fraternity_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_fraternity_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_income_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_income_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_liberty_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_liberty_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_commi_workers_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_commi_workers_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_conservative_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_conservative_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_democracy_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_democracy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_familydefence_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_familydefence_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_greenenergy_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_greenenergy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_personalfreedom_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_personalfreedom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_socialequ_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_socialequ_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_speachfreedom_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_speachfreedom_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economic_welfarestate_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_economic_welfarestate_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_economy_oil_crisis"
+		texturefile = "gfx/interface/ideas/generic/generic_economy_oil_crisis.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_education_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_education_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_foreign_intellegence_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_foreign_intellegence_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_foreign_logistic_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_foreign_logistic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_grey_man_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_grey_man_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_healthcare_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_healthcare_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_hejaz_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_hejaz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_jihadovich_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_jihadovich_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_kefir_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_kefir_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_maliki_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_maliki_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_nalog_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_nalog_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_propaganda_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_propaganda_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_jihad_sharia_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_jihad_sharia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_last_battle_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_last_battle_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_military_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_military_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_autoritarism_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_autoritarism_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_external_policy_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_external_policy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_fair_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_fair_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_god_save_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_god_save_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_internal_policy_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_internal_policy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_military_dictator_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_military_dictator_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_one_blood_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_one_blood_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_power_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_power_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nationalists_unity_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_nationalists_unity_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_peacekeepers_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_peacekeepers_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_police_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_police_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_autocracy_rhetoric"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_autocracy_rhetoric.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_control_opposition"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_control_opposition.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_democratic_rise_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_democratic_rise_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_economic_freedom"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_economic_freedom.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_guard_revoult_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_guard_revoult_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_islamic_repubic_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_islamic_repubic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_national_patriotism"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_national_patriotism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_public_defence_system_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_public_defence_system_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_politic_state_mullah_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_politic_state_mullah_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_regions_integration_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_regions_integration_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_sanctions_economic_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_sanctions_economic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_sanctions_political_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_sanctions_political_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_sanctions_resource_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_sanctions_resource_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_sanctions_social_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_sanctions_social_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_GENERIC_social_reform_idea"
+		texturefile = "gfx/interface/ideas/generic/GENERIC_social_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_vpk_idea"
+		texturefile = "gfx/interface/ideas/generic/generic_vpk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_global_demobilization_icon"
+		texturefile = "gfx/interface/ideas/generic/global_demobilization_idea_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_global_foreign_peacekeepers_icon"
+		texturefile = "gfx/interface/ideas/generic/global_foreign_peacekeepers_idea_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_global_militia_icon"
+		texturefile = "gfx/interface/ideas/generic/global_militia_idea_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_global_mobilization_icon"
+		texturefile = "gfx/interface/ideas/generic/global_mobilization_idea_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_NATO_air_exercises"
+		texturefile = "gfx/interface/ideas/generic/NATO_air_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_NATO_army_exercises"
+		texturefile = "gfx/interface/ideas/generic/NATO_army_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_NATO_navy_exercises"
+		texturefile = "gfx/interface/ideas/generic/NATO_navy_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_NATO_stanag"
+		texturefile = "gfx/interface/ideas/generic/NATO_stanag.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_NATO_status"
+		texturefile = "gfx/interface/ideas/generic/NATO_status.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_factories_evacuation_idea"
+		texturefile = "gfx/interface/ideas/generic_factories_evacuation_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_metro_idea"
+		texturefile = "gfx/interface/ideas/generic_metro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_mob_plan_idea"
+		texturefile = "gfx/interface/ideas/generic_mob_plan_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_nuclear_guy_idea"
+		texturefile = "gfx/interface/ideas/generic_nuclear_guy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_order_mod_idea"
+		texturefile = "gfx/interface/ideas/generic_order_mod_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_anti_const_protest"
+		texturefile = "gfx/interface/ideas/hungary/anti_const_protest.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_central_bank_reforms"
+		texturefile = "gfx/interface/ideas/hungary/central_bank_reforms.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_christian_illiberalism"
+		texturefile = "gfx/interface/ideas/hungary/christian_illiberalism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_agricultural_products"
+		texturefile = "gfx/interface/ideas/hungary/hungarian_agricultural_products.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_conservative_system"
+		texturefile = "gfx/interface/ideas/hungary/hungarian_conservative_system.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_decommunisation"
+		texturefile = "gfx/interface/ideas/hungary/hungarian_decommunisation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungary_absolute_power_of_monarch"
+		texturefile = "gfx/interface/ideas/hungary/hungary_absolute_power_of_monarch.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungary_const_monarchy"
+		texturefile = "gfx/interface/ideas/hungary/hungary_const_monarchy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungary_russia_exercises"
+		texturefile = "gfx/interface/ideas/hungary/hungary_russia_exercises.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungary_stabilization"
+		texturefile = "gfx/interface/ideas/hungary/hungary_stabilization.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_anti_russian_pact"
+		texturefile = "gfx/interface/ideas/hungary/HUN_anti_russian_pact.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_armed_forces"
+		texturefile = "gfx/interface/ideas/hungary/HUN_armed_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_budapest_city_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_budapest_city_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_business_support"
+		texturefile = "gfx/interface/ideas/hungary/HUN_business_support.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hun_cabinet_of_ministers"
+		texturefile = "gfx/interface/ideas/hungary/hun_cabinet_of_ministers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_centrist_party"
+		texturefile = "gfx/interface/ideas/hungary/HUN_centrist_party.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_chinese_companies"
+		texturefile = "gfx/interface/ideas/hungary/HUN_chinese_companies.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_church_no"
+		texturefile = "gfx/interface/ideas/hungary/HUN_church_no.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_comfortable"
+		texturefile = "gfx/interface/ideas/hungary/HUN_comfortable.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_corp_tax"
+		texturefile = "gfx/interface/ideas/hungary/HUN_corp_tax.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hun_defend_christian_values"
+		texturefile = "gfx/interface/ideas/hungary/hun_defend_christian_values.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_devolut"
+		texturefile = "gfx/interface/ideas/hungary/HUN_devolut.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_europe_soc_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_europe_soc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_euro_independt"
+		texturefile = "gfx/interface/ideas/hungary/HUN_euro_independt.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_ferenc_gov"
+		texturefile = "gfx/interface/ideas/hungary/HUN_ferenc_gov.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_hungarian_economy"
+		texturefile = "gfx/interface/ideas/hungary/HUN_hungarian_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_hungary_feg"
+		texturefile = "gfx/interface/ideas/hungary/HUN_hungary_feg.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_lib_soc_gov"
+		texturefile = "gfx/interface/ideas/hungary/HUN_lib_soc_gov.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_lib_sos"
+		texturefile = "gfx/interface/ideas/hungary/HUN_lib_sos.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_municipalities"
+		texturefile = "gfx/interface/ideas/hungary/HUN_municipalities.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hun_neo_aristocratism"
+		texturefile = "gfx/interface/ideas/hungary/hun_neo_aristocratism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_no_nat_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_no_nat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hun_orban_cabinet_econ_idea"
+		texturefile = "gfx/interface/ideas/hungary/hun_orban_cabinet_econ_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hun_orban_cabinet_reform_idea"
+		texturefile = "gfx/interface/ideas/hungary/hun_orban_cabinet_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_people_constitution_id"
+		texturefile = "gfx/interface/ideas/hungary/HUN_people_constitution_id.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_progressive_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_progressive_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_socialist_gov_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_socialist_gov_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_soc_gov"
+		texturefile = "gfx/interface/ideas/hungary/HUN_soc_gov.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_stimulus_check_idea"
+		texturefile = "gfx/interface/ideas/hungary/HUN_stimulus_check_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_support_minorities"
+		texturefile = "gfx/interface/ideas/hungary/HUN_support_minorities.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_HUN_unform_power"
+		texturefile = "gfx/interface/ideas/hungary/HUN_unform_power.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_jobbik_party_program"
+		texturefile = "gfx/interface/ideas/hungary/jobbik_party_program.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_new_constitution"
+		texturefile = "gfx/interface/ideas/hungary/new_constitution.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_orbanism"
+		texturefile = "gfx/interface/ideas/hungary/orbanism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_orbans_social_program"
+		texturefile = "gfx/interface/ideas/hungary/orbans_social_program.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_orban_era"
+		texturefile = "gfx/interface/ideas/hungary/orban_era.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_unemployment_subsidies"
+		texturefile = "gfx/interface/ideas/hungary/unemployment_subsidies.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_golden_age_idea"
+		texturefile = "gfx/interface/ideas/idea_golden_age_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_axis_of_resistance"
+		texturefile = "gfx/interface/ideas/internal_factions/axis_of_resistance.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_chaebols"
+		texturefile = "gfx/interface/ideas/internal_factions/chaebols.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_communist_cadres"
+		texturefile = "gfx/interface/ideas/internal_factions/communist_cadres.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_council_commander"
+		texturefile = "gfx/interface/ideas/internal_factions/council_commander.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defense_industry"
+		texturefile = "gfx/interface/ideas/internal_factions/defense_industry.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_farmers"
+		texturefile = "gfx/interface/ideas/internal_factions/farmers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_foreign_jihadis"
+		texturefile = "gfx/interface/ideas/internal_factions/foreign_jihadis.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_fossil_fuel_industry"
+		texturefile = "gfx/interface/ideas/internal_factions/fossil_fuel_industry.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_industrial_conglomerates"
+		texturefile = "gfx/interface/ideas/internal_factions/industrial_conglomerates.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intelligence_community"
+		texturefile = "gfx/interface/ideas/internal_factions/intelligence_community.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_international_bankers"
+		texturefile = "gfx/interface/ideas/internal_factions/international_bankers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_iranian_quds_force"
+		texturefile = "gfx/interface/ideas/internal_factions/iranian_quds_force.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_irgc"
+		texturefile = "gfx/interface/ideas/internal_factions/irgc.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_labour_unions"
+		texturefile = "gfx/interface/ideas/internal_factions/labour_unions.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_landowners"
+		texturefile = "gfx/interface/ideas/internal_factions/landowners.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_maritime_industry"
+		texturefile = "gfx/interface/ideas/internal_factions/maritime_industry.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_oligarchs"
+		texturefile = "gfx/interface/ideas/internal_factions/oligarchs.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_prigozhin_clan"
+		texturefile = "gfx/interface/ideas/internal_factions/prigozhin_clan.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_saudi_royal_family"
+		texturefile = "gfx/interface/ideas/internal_factions/saudi_royal_family.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_small_medium_business_owners"
+		texturefile = "gfx/interface/ideas/internal_factions/small_medium_business_owners.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_bazaar"
+		texturefile = "gfx/interface/ideas/internal_factions/the_bazaar.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_clergy"
+		texturefile = "gfx/interface/ideas/internal_factions/the_clergy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_donju"
+		texturefile = "gfx/interface/ideas/internal_factions/the_donju.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_military"
+		texturefile = "gfx/interface/ideas/internal_factions/the_military.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_priesthood"
+		texturefile = "gfx/interface/ideas/internal_factions/the_priesthood.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_the_ulema"
+		texturefile = "gfx/interface/ideas/internal_factions/the_ulema.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_vevak"
+		texturefile = "gfx/interface/ideas/internal_factions/vevak.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_wahabi_ulema"
+		texturefile = "gfx/interface/ideas/internal_factions/wahabi_ulema.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_wall_street"
+		texturefile = "gfx/interface/ideas/internal_factions/wall_street.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_wall_street_idea"
+		texturefile = "gfx/interface/ideas/internal_factions/wall_street_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bureau_01"
+		texturefile = "gfx/interface/ideas/laws/bureau_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bureau_02"
+		texturefile = "gfx/interface/ideas/laws/bureau_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bureau_03"
+		texturefile = "gfx/interface/ideas/laws/bureau_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bureau_04"
+		texturefile = "gfx/interface/ideas/laws/bureau_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_bureau_05"
+		texturefile = "gfx/interface/ideas/laws/bureau_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_consumption_economy"
+		texturefile = "gfx/interface/ideas/laws/consumption_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_00"
+		texturefile = "gfx/interface/ideas/laws/defence_00.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_01"
+		texturefile = "gfx/interface/ideas/laws/defence_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_02"
+		texturefile = "gfx/interface/ideas/laws/defence_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_03"
+		texturefile = "gfx/interface/ideas/laws/defence_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_04"
+		texturefile = "gfx/interface/ideas/laws/defence_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_05"
+		texturefile = "gfx/interface/ideas/laws/defence_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_06"
+		texturefile = "gfx/interface/ideas/laws/defence_06.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_07"
+		texturefile = "gfx/interface/ideas/laws/defence_07.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_08"
+		texturefile = "gfx/interface/ideas/laws/defence_08.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_defence_09"
+		texturefile = "gfx/interface/ideas/laws/defence_09.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_deflation_01"
+		texturefile = "gfx/interface/ideas/laws/deflation_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_drafted_women"
+		texturefile = "gfx/interface/ideas/laws/drafted_women.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_draft_army"
+		texturefile = "gfx/interface/ideas/laws/draft_army.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_edu_01"
+		texturefile = "gfx/interface/ideas/laws/edu_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_edu_02"
+		texturefile = "gfx/interface/ideas/laws/edu_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_edu_03"
+		texturefile = "gfx/interface/ideas/laws/edu_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_edu_04"
+		texturefile = "gfx/interface/ideas/laws/edu_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_edu_05"
+		texturefile = "gfx/interface/ideas/laws/edu_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_export_economy"
+		texturefile = "gfx/interface/ideas/laws/export_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_full_first_use"
+		texturefile = "gfx/interface/ideas/laws/full_first_use.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_capitalization1_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_capitalization1_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_capitalization2_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_capitalization2_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_capitalization3_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_capitalization3_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_epoch_nopetrodollat_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_epoch_nopetrodollat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_epoch_petrodollat_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_epoch_petrodollat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_epoch_petroreuro_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_epoch_petroreuro_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_epoch_petroruble_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_epoch_petroruble_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_epoch_petroryuan_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_epoch_petroryuan_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_miltreaty_ban_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_miltreaty_ban_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_miltreaty_cfe_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_miltreaty_cfe_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_miltreaty_free_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_miltreaty_free_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_generic_org_wto_idea"
+		texturefile = "gfx/interface/ideas/laws/generic_org_wto_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_globalized_trade_economy"
+		texturefile = "gfx/interface/ideas/laws/globalized_trade_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_01"
+		texturefile = "gfx/interface/ideas/laws/health_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_02"
+		texturefile = "gfx/interface/ideas/laws/health_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_03"
+		texturefile = "gfx/interface/ideas/laws/health_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_04"
+		texturefile = "gfx/interface/ideas/laws/health_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_05"
+		texturefile = "gfx/interface/ideas/laws/health_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_health_06"
+		texturefile = "gfx/interface/ideas/laws/health_06.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_1"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_1.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_10"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_10.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_2"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_2.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_3"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_3.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_4"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_4.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_5"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_5.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_6"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_6.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_7"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_7.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_8"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_8.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_corruption_9"
+		texturefile = "gfx/interface/ideas/laws/idea_corruption_9.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_depression"
+		texturefile = "gfx/interface/ideas/laws/idea_depression.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_economic_boom"
+		texturefile = "gfx/interface/ideas/laws/idea_economic_boom.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_fast_growth"
+		texturefile = "gfx/interface/ideas/laws/idea_fast_growth.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_global_interventionism"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_global_interventionism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_isolation"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_isolation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_limited_interventionism"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_limited_interventionism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_local_security"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_local_security.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_neo_imperialism"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_neo_imperialism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_regional_interventionism"
+		texturefile = "gfx/interface/ideas/laws/idea_intervention_regional_interventionism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_recession"
+		texturefile = "gfx/interface/ideas/laws/idea_recession.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_stable_growth"
+		texturefile = "gfx/interface/ideas/laws/idea_stable_growth.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_stagnation"
+		texturefile = "gfx/interface/ideas/laws/idea_stagnation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_inflation_01"
+		texturefile = "gfx/interface/ideas/laws/inflation_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_inflation_02"
+		texturefile = "gfx/interface/ideas/laws/inflation_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_inflation_03"
+		texturefile = "gfx/interface/ideas/laws/inflation_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intervention_interbrigades"
+		texturefile = "gfx/interface/ideas/laws/intervention_interbrigades.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_md_closed_economy"
+		texturefile = "gfx/interface/ideas/laws/md_closed_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_close_borders"
+		texturefile = "gfx/interface/ideas/laws/migration_close_borders.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_open_borders"
+		texturefile = "gfx/interface/ideas/laws/migration_open_borders.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_regulation_hard"
+		texturefile = "gfx/interface/ideas/laws/migration_regulation_hard.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_regulation_light"
+		texturefile = "gfx/interface/ideas/laws/migration_regulation_light.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_regulation_medium"
+		texturefile = "gfx/interface/ideas/laws/migration_regulation_medium.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_mixed_economy"
+		texturefile = "gfx/interface/ideas/laws/mixed_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_non_nuclear_power"
+		texturefile = "gfx/interface/ideas/laws/non_nuclear_power.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_no_military"
+		texturefile = "gfx/interface/ideas/laws/no_military.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_no_use_case"
+		texturefile = "gfx/interface/ideas/laws/no_use_case.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_no_women_in_military"
+		texturefile = "gfx/interface/ideas/laws/no_women_in_military.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nuclear_energy"
+		texturefile = "gfx/interface/ideas/laws/nuclear_energy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nuclear_power_def"
+		texturefile = "gfx/interface/ideas/laws/nuclear_power_def.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nuclear_power_off"
+		texturefile = "gfx/interface/ideas/laws/nuclear_power_off.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_advanced_training"
+		texturefile = "gfx/interface/ideas/laws/officer_advanced_training.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_baptism_by_fire"
+		texturefile = "gfx/interface/ideas/laws/officer_baptism_by_fire.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_basic_training"
+		texturefile = "gfx/interface/ideas/laws/officer_basic_training.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_international_education"
+		texturefile = "gfx/interface/ideas/laws/officer_international_education.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_military_academy"
+		texturefile = "gfx/interface/ideas/laws/officer_military_academy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_officer_military_school"
+		texturefile = "gfx/interface/ideas/laws/officer_military_school.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_partial_draft_army"
+		texturefile = "gfx/interface/ideas/laws/partial_draft_army.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_police_01"
+		texturefile = "gfx/interface/ideas/laws/police_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_police_02"
+		texturefile = "gfx/interface/ideas/laws/police_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_police_03"
+		texturefile = "gfx/interface/ideas/laws/police_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_police_04"
+		texturefile = "gfx/interface/ideas/laws/police_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_police_05"
+		texturefile = "gfx/interface/ideas/laws/police_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_semi_consumption_economy"
+		texturefile = "gfx/interface/ideas/laws/semi_consumption_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_01"
+		texturefile = "gfx/interface/ideas/laws/social_01.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_02"
+		texturefile = "gfx/interface/ideas/laws/social_02.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_03"
+		texturefile = "gfx/interface/ideas/laws/social_03.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_04"
+		texturefile = "gfx/interface/ideas/laws/social_04.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_05"
+		texturefile = "gfx/interface/ideas/laws/social_05.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_social_06"
+		texturefile = "gfx/interface/ideas/laws/social_06.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_strategic_retaliation_only"
+		texturefile = "gfx/interface/ideas/laws/strategic_retaliation_only.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_tac_and_strat_retaliation"
+		texturefile = "gfx/interface/ideas/laws/tac_and_strat_retaliation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_tac_first_use_strat_retaliation"
+		texturefile = "gfx/interface/ideas/laws/tac_first_use_strat_retaliation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_volunteer_army"
+		texturefile = "gfx/interface/ideas/laws/volunteer_army.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_volunteer_women"
+		texturefile = "gfx/interface/ideas/laws/volunteer_women.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nato_arf_idea"
+		texturefile = "gfx/interface/ideas/nato/nato_arf_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nato_north_idea"
+		texturefile = "gfx/interface/ideas/nato/nato_north_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nato_nrf_idea"
+		texturefile = "gfx/interface/ideas/nato/nato_nrf_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_nato_south_idea"
+		texturefile = "gfx/interface/ideas/nato/nato_south_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_african_union"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_african_union.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_arab_league"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_arab_league.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_asean"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_asean.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_cis"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_cis.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_commonweatlh"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_commonweatlh.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_eaeu"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_eaeu.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_ecowas"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_ecowas.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_eu"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_eu.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ideas_organizations_guam"
+		texturefile = "gfx/interface/ideas/organizations/ideas_organizations_guam.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_LoAS_member"
+		texturefile = "gfx/interface/ideas/organizations/LoAS_member.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_OAU_member"
+		texturefile = "gfx/interface/ideas/organizations/OAU_member.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_partisans_modif"
+		texturefile = "gfx/interface/ideas/partisans_modif.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_against_monopolies"
+		texturefile = "gfx/interface/ideas/poland/against_monopolies.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_anti_russian_pact"
+		texturefile = "gfx/interface/ideas/poland/anti_russian_pact.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_authoritarian_politics"
+		texturefile = "gfx/interface/ideas/poland/authoritarian_politics.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_Bank_Leadership"
+		texturefile = "gfx/interface/ideas/poland/Bank_Leadership.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ban_lgbt"
+		texturefile = "gfx/interface/ideas/poland/ban_lgbt.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ban_muslim_migrants"
+		texturefile = "gfx/interface/ideas/poland/ban_muslim_migrants.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ban_totalitarism"
+		texturefile = "gfx/interface/ideas/poland/ban_totalitarism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_braun_economy_policy"
+		texturefile = "gfx/interface/ideas/poland/braun_economy_policy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_braun_health_policy"
+		texturefile = "gfx/interface/ideas/poland/braun_health_policy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_career_monitoring"
+		texturefile = "gfx/interface/ideas/poland/career_monitoring.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_catholic_social_teaching"
+		texturefile = "gfx/interface/ideas/poland/catholic_social_teaching.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_catholic_traditionalism"
+		texturefile = "gfx/interface/ideas/poland/catholic_traditionalism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_censured_media"
+		texturefile = "gfx/interface/ideas/poland/censured_media.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_center_of_power_intermarium"
+		texturefile = "gfx/interface/ideas/poland/center_of_power_intermarium.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_christ_moral_principal"
+		texturefile = "gfx/interface/ideas/poland/christ_moral_principal.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_clericalism"
+		texturefile = "gfx/interface/ideas/poland/clericalism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_communist_republic"
+		texturefile = "gfx/interface/ideas/poland/communist_republic.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_const_monarch_icon"
+		texturefile = "gfx/interface/ideas/poland/const_monarch_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_control_of_islamic_migration"
+		texturefile = "gfx/interface/ideas/poland/control_of_islamic_migration.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_control_of_migration"
+		texturefile = "gfx/interface/ideas/poland/control_of_migration.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_death_penalty"
+		texturefile = "gfx/interface/ideas/poland/death_penalty.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_debanderization"
+		texturefile = "gfx/interface/ideas/poland/debanderization.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_decomminization_program"
+		texturefile = "gfx/interface/ideas/poland/decomminization_program.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_dictatorship_of_proletariat"
+		texturefile = "gfx/interface/ideas/poland/dictatorship_of_proletariat.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_dmowski_legacy"
+		texturefile = "gfx/interface/ideas/poland/dmowski_legacy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_economic_reconstruction"
+		texturefile = "gfx/interface/ideas/poland/economic_reconstruction.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_Economic_reforms"
+		texturefile = "gfx/interface/ideas/poland/Economic_reforms.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_education_reform"
+		texturefile = "gfx/interface/ideas/poland/education_reform.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_energy_security"
+		texturefile = "gfx/interface/ideas/poland/energy_security.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_fb_licznik_radom"
+		texturefile = "gfx/interface/ideas/poland/fb_licznik_radom.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_free_muslim_migrants"
+		texturefile = "gfx/interface/ideas/poland/free_muslim_migrants.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ghost_of_communism"
+		texturefile = "gfx/interface/ideas/poland/ghost_of_communism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hsw_sa"
+		texturefile = "gfx/interface/ideas/poland/hsw_sa.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_intermarium_member"
+		texturefile = "gfx/interface/ideas/poland/intermarium_member.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_jesus_king"
+		texturefile = "gfx/interface/ideas/poland/jesus_king.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_junior_uniat"
+		texturefile = "gfx/interface/ideas/poland/junior_uniat.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_korwincoin"
+		texturefile = "gfx/interface/ideas/poland/korwincoin.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_korwins_constitution_icon"
+		texturefile = "gfx/interface/ideas/poland/korwins_constitution_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_korwins_policy_icon"
+		texturefile = "gfx/interface/ideas/poland/korwins_policy_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_Legalization_of_abortion"
+		texturefile = "gfx/interface/ideas/poland/Legalization_of_abortion.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_lex_tvn"
+		texturefile = "gfx/interface/ideas/poland/lex_tvn.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_Liquidation_of_Church_Fund"
+		texturefile = "gfx/interface/ideas/poland/Liquidation_of_Church_Fund.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_media_control_braun"
+		texturefile = "gfx/interface/ideas/poland/media_control_braun.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_moderate_nationalism"
+		texturefile = "gfx/interface/ideas/poland/moderate_nationalism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_moral_revolution"
+		texturefile = "gfx/interface/ideas/poland/moral_revolution.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_new_commander"
+		texturefile = "gfx/interface/ideas/poland/new_commander.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_non_intervention_policy_icon"
+		texturefile = "gfx/interface/ideas/poland/non_intervention_policy_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_obrum"
+		texturefile = "gfx/interface/ideas/poland/obrum.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pis_policy"
+		texturefile = "gfx/interface/ideas/poland/pis_policy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_planning_economy"
+		texturefile = "gfx/interface/ideas/poland/planning_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_air_forces"
+		texturefile = "gfx/interface/ideas/poland/poland_air_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_dockyard"
+		texturefile = "gfx/interface/ideas/poland/poland_dockyard.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_economy_icons"
+		texturefile = "gfx/interface/ideas/poland/poland_economy_icons.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_foreign_cars_idea"
+		texturefile = "gfx/interface/ideas/poland/poland_foreign_cars_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_land_forces"
+		texturefile = "gfx/interface/ideas/poland/poland_land_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_navy_forces"
+		texturefile = "gfx/interface/ideas/poland/poland_navy_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_sejm_icon"
+		texturefile = "gfx/interface/ideas/poland/poland_sejm_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_senate_icon"
+		texturefile = "gfx/interface/ideas/poland/poland_senate_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_special_forces"
+		texturefile = "gfx/interface/ideas/poland/poland_special_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_poland_third_republic"
+		texturefile = "gfx/interface/ideas/poland/poland_third_republic.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_conservatism_icon"
+		texturefile = "gfx/interface/ideas/poland/polish_conservatism_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_culture_icon"
+		texturefile = "gfx/interface/ideas/poland/polish_culture_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_democracy"
+		texturefile = "gfx/interface/ideas/poland/polish_democracy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_ethnocracy_icon"
+		texturefile = "gfx/interface/ideas/poland/polish_ethnocracy_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_peacekeepers"
+		texturefile = "gfx/interface/ideas/poland/polish_peacekeepers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_100_points_for_100_days"
+		texturefile = "gfx/interface/ideas/poland/POL_100_points_for_100_days.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_american_mines"
+		texturefile = "gfx/interface/ideas/poland/POL_american_mines.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_balczerovicz_plan"
+		texturefile = "gfx/interface/ideas/poland/POL_balczerovicz_plan.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_cia_blacksites"
+		texturefile = "gfx/interface/ideas/poland/POL_cia_blacksites.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_constitution1997"
+		texturefile = "gfx/interface/ideas/poland/POL_constitution1997.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_cub_coop_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_cub_coop_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_admin_purges"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_admin_purges.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_dawn_nation"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_dawn_nation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_main"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_main.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_sanation"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_sanation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_solderism"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_solderism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_strongstate"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_strongstate.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_falanga_warcult"
+		texturefile = "gfx/interface/ideas/poland/pol_falanga_warcult.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_fight_against_unemployment"
+		texturefile = "gfx/interface/ideas/poland/POL_fight_against_unemployment.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_independence_judiciary"
+		texturefile = "gfx/interface/ideas/poland/POL_independence_judiciary.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_judicial_reform"
+		texturefile = "gfx/interface/ideas/poland/POL_judicial_reform.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_kanadian_mines"
+		texturefile = "gfx/interface/ideas/poland/POL_kanadian_mines.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_kuron_plan"
+		texturefile = "gfx/interface/ideas/poland/POL_kuron_plan.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_kwasniewski_second_term"
+		texturefile = "gfx/interface/ideas/poland/POL_kwasniewski_second_term.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_laos_workers_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_laos_workers_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_legacy_pzrp"
+		texturefile = "gfx/interface/ideas/poland/POL_legacy_pzrp.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_mexican_mines"
+		texturefile = "gfx/interface/ideas/poland/POL_mexican_mines.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_peacekeeper_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_peacekeeper_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_psl_economic_reform_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_psl_economic_reform_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_rutkoskipatrol_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_rutkoskipatrol_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_ser_coop_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_ser_coop_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_suppression_of_labour_unions"
+		texturefile = "gfx/interface/ideas/poland/POL_suppression_of_labour_unions.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pol_vietnam_workers_idea"
+		texturefile = "gfx/interface/ideas/poland/pol_vietnam_workers_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pomor_mobilized"
+		texturefile = "gfx/interface/ideas/poland/pomor_mobilized.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_population_census"
+		texturefile = "gfx/interface/ideas/poland/population_census.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_purchase_of_polish_fertilizers"
+		texturefile = "gfx/interface/ideas/poland/purchase_of_polish_fertilizers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_pzl_mielec"
+		texturefile = "gfx/interface/ideas/poland/pzl_mielec.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_rada_panstwa_icon"
+		texturefile = "gfx/interface/ideas/poland/rada_panstwa_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_reducing_bureaucracy_icon"
+		texturefile = "gfx/interface/ideas/poland/reducing_bureaucracy_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_religious_totalitarianism"
+		texturefile = "gfx/interface/ideas/poland/religious_totalitarianism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_renationalization_of_economy"
+		texturefile = "gfx/interface/ideas/poland/renationalization_of_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_rise_communism"
+		texturefile = "gfx/interface/ideas/poland/rise_communism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_second_kingdom_icon"
+		texturefile = "gfx/interface/ideas/poland/second_kingdom_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_shoot_journalists"
+		texturefile = "gfx/interface/ideas/poland/shoot_journalists.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_silesian_mobilized"
+		texturefile = "gfx/interface/ideas/poland/silesian_mobilized.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_socialism_confederation_icon"
+		texturefile = "gfx/interface/ideas/poland/socialism_confederation_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sovereign_economy"
+		texturefile = "gfx/interface/ideas/poland/sovereign_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_stable_pensions"
+		texturefile = "gfx/interface/ideas/poland/stable_pensions.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_strict_control_of_migration"
+		texturefile = "gfx/interface/ideas/poland/strict_control_of_migration.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_szlachecka_democracy_icon"
+		texturefile = "gfx/interface/ideas/poland/szlachecka_democracy_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_three_sea_initiative"
+		texturefile = "gfx/interface/ideas/poland/three_sea_initiative.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ukranian_migrants"
+		texturefile = "gfx/interface/ideas/poland/ukranian_migrants.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_V4euro"
+		texturefile = "gfx/interface/ideas/poland/V4euro.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_armed_forces"
+		texturefile = "gfx/interface/ideas/poland/VG_armed_forces.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_center_of_influense"
+		texturefile = "gfx/interface/ideas/poland/VG_center_of_influense.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_confegeration_member"
+		texturefile = "gfx/interface/ideas/poland/VG_confegeration_member.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_economic_reorganization"
+		texturefile = "gfx/interface/ideas/poland/VG_economic_reorganization.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_problem_of_bureaucracy"
+		texturefile = "gfx/interface/ideas/poland/VG_problem_of_bureaucracy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_stable_bureaucracy"
+		texturefile = "gfx/interface/ideas/poland/VG_stable_bureaucracy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_visegrad_army_mobilize"
+		texturefile = "gfx/interface/ideas/poland/VG_visegrad_army_mobilize.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_visegrad_passport"
+		texturefile = "gfx/interface/ideas/poland/VG_visegrad_passport.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_visegrad_group_icon"
+		texturefile = "gfx/interface/ideas/poland/visegrad_group_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_voucher_program_icon"
+		texturefile = "gfx/interface/ideas/poland/voucher_program_icon.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_warsaw_pact_member"
+		texturefile = "gfx/interface/ideas/poland/warsaw_pact_member.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_anti_sanctions_economic_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_anti_sanctions_economic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_anti_sanctions_resourse_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_anti_sanctions_resourse_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_army_all_new_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_army_all_new_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_broken_economy_new_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_broken_economy_new_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_chechen_attack_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_chechen_attack_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_eaeu_spirit_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_eaeu_spirit_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_economic_new_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_economic_new_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_gosuslugi_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_gosuslugi_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_legacy_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_legacy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_may_decress_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_may_decress_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_medvedism_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_medvedism_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_moscow_new_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_moscow_new_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_economic_policy"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_economic_policy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_mir"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_mir.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_new_russiandream"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_new_russiandream.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_protectorate"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_protectorate.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_silkroad"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_silkroad.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_siloviks"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_siloviks.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_structural"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_structural.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_techno_patriotism"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_techno_patriotism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_techointer"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_techointer.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_techosphere"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_techosphere.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_zloy_mironov"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_zloy_mironov.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_nabi_zyuga_opposition"
+		texturefile = "gfx/interface/ideas/russia/sov_nabi_zyuga_opposition.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_ntv_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_ntv_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_oil_trade_profit_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_oil_trade_profit_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_putinists_opposition"
+		texturefile = "gfx/interface/ideas/russia/sov_putinists_opposition.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_stabilization_fund_new_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_stabilization_fund_new_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_sov_warcult_idea"
+		texturefile = "gfx/interface/ideas/russia/sov_warcult_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_armenia_alpha_idea"
+		texturefile = "gfx/interface/ideas/services/ARM/services_armenia_alpha_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_armenia_border_idea"
+		texturefile = "gfx/interface/ideas/services/ARM/services_armenia_border_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_armenia_fis_idea"
+		texturefile = "gfx/interface/ideas/services/ARM/services_armenia_fis_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_armenia_nss_idea"
+		texturefile = "gfx/interface/ideas/services/ARM/services_armenia_nss_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_armenia_police_idea"
+		texturefile = "gfx/interface/ideas/services/ARM/services_armenia_police_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_almaz_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_almaz_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_alpha_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_alpha_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_blackcat_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_blackcat_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_chk_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_chk_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_fas_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_fas_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_foreignlegion_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_foreignlegion_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_gru_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_gru_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_guard_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_guard_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_hussars_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_hussars_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_innertroops_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_innertroops_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_kgb_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_kgb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_ksb_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_ksb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_mvd_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_mvd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_nazbolguard_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_nazbolguard_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_omon_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_omon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_poznyakkgb_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_poznyakkgb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_poznyakpolice_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_poznyakpolice_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_sbb_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_sbb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_smersh_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_smersh_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_sobr_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_sobr_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_blr_whitelegion_idea"
+		texturefile = "gfx/interface/ideas/services/BLR/services_blr_whitelegion_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_chi_bureau_idea"
+		texturefile = "gfx/interface/ideas/services/CHI/services_chi_bureau_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_chi_mss_idea"
+		texturefile = "gfx/interface/ideas/services/CHI/services_chi_mss_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_chi_police_idea"
+		texturefile = "gfx/interface/ideas/services/CHI/services_chi_police_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_economic_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_economic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_guardsislam_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_guardsislam_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_inghimasi_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_inghimasi_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_invest_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_invest_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_peoplemilitia_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_peoplemilitia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_politic_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_politic_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_protection_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_protection_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_research_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_research_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_resistancejid_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_resistancejid_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_secretservice_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_secretservice_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_generic_tax_idea"
+		texturefile = "gfx/interface/ideas/services/Generic/services_generic_tax_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_constitution_protection_office"
+		texturefile = "gfx/interface/ideas/services/HUN/hungarian_constitution_protection_office.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_KNBSZ"
+		texturefile = "gfx/interface/ideas/services/HUN/hungarian_KNBSZ.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_police"
+		texturefile = "gfx/interface/ideas/services/HUN/hungarian_police.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_hungarian_tek"
+		texturefile = "gfx/interface/ideas/services/HUN/hungarian_tek.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_polish_catholic_inquisition"
+		texturefile = "gfx/interface/ideas/services/POL/polish_catholic_inquisition.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_bbn"
+		texturefile = "gfx/interface/ideas/services/POL/POL_bbn.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_cba"
+		texturefile = "gfx/interface/ideas/services/POL/POL_cba.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_Foreign_Intelligence_Agency"
+		texturefile = "gfx/interface/ideas/services/POL/POL_Foreign_Intelligence_Agency.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_internal_security_agency"
+		texturefile = "gfx/interface/ideas/services/POL/POL_internal_security_agency.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_marshal_guardians"
+		texturefile = "gfx/interface/ideas/services/POL/POL_marshal_guardians.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_Military_Counterintelligence_Service"
+		texturefile = "gfx/interface/ideas/services/POL/POL_Military_Counterintelligence_Service.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_Military_Intelligence_Service"
+		texturefile = "gfx/interface/ideas/services/POL/POL_Military_Intelligence_Service.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_mswa"
+		texturefile = "gfx/interface/ideas/services/POL/POL_mswa.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_polish_police"
+		texturefile = "gfx/interface/ideas/services/POL/POL_polish_police.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_straz_graniczna"
+		texturefile = "gfx/interface/ideas/services/POL/POL_straz_graniczna.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_POL_wot"
+		texturefile = "gfx/interface/ideas/services/POL/POL_wot.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_security_service"
+		texturefile = "gfx/interface/ideas/services/POL/security_service.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_ministry_foreign_affers"
+		texturefile = "gfx/interface/ideas/services/POL/VG_ministry_foreign_affers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_security"
+		texturefile = "gfx/interface/ideas/services/POL/VG_security.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_VG_visegrad_patent_institute"
+		texturefile = "gfx/interface/ideas/services/POL/VG_visegrad_patent_institute.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_slo_police_idea"
+		texturefile = "gfx/interface/ideas/services/SLO/services_slo_police_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_slo_sis_idea"
+		texturefile = "gfx/interface/ideas/services/SLO/services_slo_sis_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_slo_vos_idea"
+		texturefile = "gfx/interface/ideas/services/SLO/services_slo_vos_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_stb_structure"
+		texturefile = "gfx/interface/ideas/services/SLO/SLO_stb_structure.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_alpha_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_alpha_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_centralbank_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_centralbank_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fcc_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fcc_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_federalpolice_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_federalpolice_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fgs_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fgs_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_finmon_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_finmon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fms_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fms_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fsb_border_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fsb_border_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fsb_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fsb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fskn_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fskn_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fsnp_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fsnp_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_fts_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_fts_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_gru_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_gru_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_internal_troops_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_internal_troops_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_kgb_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_kgb_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_minpus_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_minpus_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_mvd_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_mvd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_omon_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_omon_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_rkn_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_rkn_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_rosgvardia_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_rosgvardia_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_sobr_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_sobr_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_sofbez_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_sofbez_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_svr_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_svr_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_vympel_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_vympel_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_services_russia_wagner_idea"
+		texturefile = "gfx/interface/ideas/services/SOV/services_russia_wagner_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_ban_surrogacy"
+		texturefile = "gfx/interface/ideas/slovakia/ban_surrogacy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_chinese_invest"
+		texturefile = "gfx/interface/ideas/slovakia/chinese_invest.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_control_of_banks"
+		texturefile = "gfx/interface/ideas/slovakia/control_of_banks.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_korean_invest"
+		texturefile = "gfx/interface/ideas/slovakia/korean_invest.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_media_control"
+		texturefile = "gfx/interface/ideas/slovakia/media_control.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_migration_workers"
+		texturefile = "gfx/interface/ideas/slovakia/migration_workers.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slovakia_support_us"
+		texturefile = "gfx/interface/ideas/slovakia/slovakia_support_us.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slovak_militarism"
+		texturefile = "gfx/interface/ideas/slovakia/slovak_militarism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_army_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_army_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slo_economic_nationalism"
+		texturefile = "gfx/interface/ideas/slovakia/slo_economic_nationalism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_economy_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_economy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slo_father_of_citizen"
+		texturefile = "gfx/interface/ideas/slovakia/slo_father_of_citizen.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slo_left_economy"
+		texturefile = "gfx/interface/ideas/slovakia/slo_left_economy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_loyal_economy_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_loyal_economy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_mafia_oligarchs_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_mafia_oligarchs_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_market_reforms_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_market_reforms_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_meciarism_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_meciarism_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_nato_front_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_nato_front_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_oecd_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_oecd_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_oligarchic_economy_idea"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_oligarchic_economy_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_par_republic"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_par_republic.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_slo_personality_cult"
+		texturefile = "gfx/interface/ideas/slovakia/slo_personality_cult.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_privatosation"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_privatosation.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_prosecutor"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_prosecutor.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_SLO_russian_oil"
+		texturefile = "gfx/interface/ideas/slovakia/SLO_russian_oil.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_stop_monopoy"
+		texturefile = "gfx/interface/ideas/slovakia/stop_monopoy.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_total_statism"
+		texturefile = "gfx/interface/ideas/slovakia/total_statism.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_agl_resource_deal"
+		texturefile = "gfx/interface/ideas/usa/usa_agl_resource_deal.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_china_coop"
+		texturefile = "gfx/interface/ideas/usa/usa_china_coop.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_cng_resource_deal"
+		texturefile = "gfx/interface/ideas/usa/usa_cng_resource_deal.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_india_coop"
+		texturefile = "gfx/interface/ideas/usa/usa_india_coop.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_nig_oil_deal"
+		texturefile = "gfx/interface/ideas/usa/usa_nig_oil_deal.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_pmr_base"
+		texturefile = "gfx/interface/ideas/usa/usa_pmr_base.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_quad_idea"
+		texturefile = "gfx/interface/ideas/usa/usa_quad_idea.dds"
+	}
+	spriteType ={
+		name = "GFX_idea_usa_taiwan_coop"
+		texturefile = "gfx/interface/ideas/usa/usa_taiwan_coop.dds"
+	}
+}
