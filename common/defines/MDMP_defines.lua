@@ -23,6 +23,9 @@ NDefines.NTechnology.BASE_RESEARCH_POINTS_SAVED = 50.0
 -- Focus Progress
 NDefines.NFocus.MAX_SAVED_FOCUS_PROGRESS = 30
 
+-- PP Buff
+NDefines.NPolitics.BASE_POLITICAL_POWER_INCREASE = 2.0
+
 -- Free License(need to balance so off for now)
 --NDefines.NProduction.LICENSE_IC_COST_YEAR_INCREASE = 0					-- Free license
 --NDefines.NProduction.MIN_LICENSE_ACTIVE_DAYS = 1                        -- Free license
