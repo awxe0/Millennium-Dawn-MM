@@ -4,8 +4,8 @@
 	NDefines.NGame.ENERGY_RESOURCE = "oil" -- sets what resource is used for energy. We can adjust this later to a proper resource that is tradeable
 
 	-- NDiplomacy Defines
-	NDefines.NDiplomacy.MAX_OPINION_VALUE = 250
-	NDefines.NDiplomacy.MIN_OPINION_VALUE = -250
+	NDefines.NDiplomacy.MAX_OPINION_VALUE = 300
+	NDefines.NDiplomacy.MIN_OPINION_VALUE = -300
 	NDefines.NDiplomacy.BASE_NEGATIVE_OPINION_AFTER_BEING_KICKED = 50
 	NDefines.NDiplomacy.DECAY_RATE_OF_NEGATIVE_OPINION_AFTER_BEING_KICKED = 0.5
 	NDefines.NDiplomacy.TRUCE_BREAK_COST_PP = 100
@@ -160,6 +160,7 @@
 	NDefines.NAI.EQUIPMENT_MARKET_BASE_MARKET_RATIO = 0.1 -- 0.2
 	NDefines.NAI.EQUIPMENT_MARKET_NR_DELIVERIES_SOFT_MAX = 400 -- 10 -- this should get AI to never add more than one factory
 	-- NCountry Releated Defines
+	NDefines.NCountry.POLITICAL_POWER_UPPER_CAP = 5000
 	NDefines.NCountry.AIR_SUPPLY_CONVERSION_SCALE = 0.1 -- 0.01
 	NDefines.NCountry.AIR_SUPPLY_DROP_EXPIRATION_HOURS = 168 -- 168
 	NDefines.NCountry.FUEL_LEASE_CONVOY_RATIO = 0.00005 -- 0.0005
@@ -187,7 +188,7 @@
 	NDefines.NCountry.MAX_INTELLIGENCE_MANPOWER_DATA_DEVIATION = 0.3
 	NDefines.NCountry.STATE_VALUE_BUILDING_SLOTS_MULT = 3.0 -- value of each building slot in a state
 	NDefines.NCountry.STATE_VALUE_RESEOURCE_MULT = 0.4
-	NDefines.NCountry.STATE_OCCUPATION_COST_MULTIPLIER = 0.02
+	NDefines.NCountry.STATE_OCCUPATION_COST_MULTIPLIER = 0 -- 0.02
 	NDefines.NCountry.SPECIAL_FORCES_CAP_BASE = 0.075
 	NDefines.NCountry.SPECIAL_FORCES_CAP_MIN = 6
 	NDefines.NCountry.DAYS_OF_WAR_BEFORE_SURRENDER = 7
@@ -213,6 +214,8 @@
 
 	NDefines.NProduction.MAX_EQUIPMENT_RESOURCES_NEED = 4
 	NDefines.NProduction.MAX_LINE_RESOURCE_PENALTY = 50
+	NDefines.NProduction.BASE_FACTORY_SPEED_MIL = 3
+	NDefines.NProduction.BASE_FACTORY_SPEED_NAV = 8
 	NDefines.NProduction.BASE_FACTORY_START_EFFICIENCY_FACTOR = 20
 	NDefines.NProduction.BASE_CONSUMER_GOODS_NEED_FACTOR = 0
 	NDefines.NProduction.EQUIPMENT_BASE_LEND_LEASE_WEIGHT = 0.01
@@ -284,8 +287,8 @@
 	NDefines.NMilitary.LAND_COMBAT_COLLATERAL_FACTOR = 0.05 -- 0.005
 	NDefines.NMilitary.LAND_COMBAT_FORT_DAMAGE_CHANCE = 15
 	NDefines.NMilitary.ATTRITION_DAMAGE_ORG = 0.04 -- 0.08
-	NDefines.NMilitary.ATTRITION_EQUIPMENT_LOSS_CHANCE = 0.025 -- 0.1
-	NDefines.NMilitary.ATTRITION_EQUIPMENT_PER_TYPE_LOSS_CHANCE = 0.025 -- 0.1
+	NDefines.NMilitary.ATTRITION_EQUIPMENT_LOSS_CHANCE = 0.005 -- 0.1
+	NDefines.NMilitary.ATTRITION_EQUIPMENT_PER_TYPE_LOSS_CHANCE = 0.005 -- 0.1
 	NDefines.NMilitary.CHANCE_TO_AVOID_HIT_AT_NO_DEF = 50 -- 60
 	NDefines.NMilitary.COMBAT_MOVEMENT_SPEED = 0.10
 	NDefines.NMilitary.TACTIC_SWAP_FREQUENCEY = 36 -- 24
@@ -298,7 +301,7 @@
 	NDefines.NMilitary.RECON_SKILL_IMPACT = 0.05 -- 5
 	NDefines.NMilitary.ENEMY_AIR_SUPERIORITY_IMPACT = -0.65 -- -0.35
 	NDefines.NMilitary.ENEMY_AIR_SUPERIORITY_SPEED_IMPACT = -0.3 -- -0.3
-	NDefines.NMilitary.SLOWEST_SPEED = 8 -- 4
+	NDefines.NMilitary.SLOWEST_SPEED = 4 -- 4
 	NDefines.NMilitary.BASE_NIGHT_ATTACK_PENALTY = -0.6 -- -0.5
 	NDefines.NMilitary.UNIT_DIGIN_CAP = 20 -- 5
 	NDefines.NMilitary.EXPERIENCE_COMBAT_FACTOR = 0.05 -- 0.25
@@ -390,8 +393,8 @@
 	NDefines.NMilitary.WAR_SCORE_AIR_WORTH_CAP = 500				-- the warscore liit we get from strategic bombing
 	NDefines.NMilitary.WAR_SCORE_AIR_MONTHLY_FALLOFF = 20			-- how much the warscore we got from the strategic bombing falls off every month.
 	NDefines.NMilitary.WAR_SCORE_LOSSES_RATIO = 4	         	-- Scale how much losses will affect warscore ( per 1000 losses ).
-	NDefines.NMilitary.NUKE_MIN_DAMAGE_PERCENT = 0.0					-- Minimum damage from nukes as a percentage of current strength/organisation
-	NDefines.NMilitary.NUKE_MAX_DAMAGE_PERCENT = 0.0					-- Minimum damage from nukes as a percentage of current strength/organisation
+	NDefines.NMilitary.NUKE_MIN_DAMAGE_PERCENT = 0.25					-- Minimum damage from nukes as a percentage of current strength/organisation
+	NDefines.NMilitary.NUKE_MAX_DAMAGE_PERCENT = 1					-- Minimum damage from nukes as a percentage of current strength/organisation
 	NDefines.NMilitary.NUKE_DELAY_HOURS = 0.0							-- How many hours does it take for the nuclear drop to happen
 
 	NDefines.NMilitary.BASE_FEMALE_DIVISIONAL_COMMANDER_CHANCE = 0.02 -- Vanilla sets this to 0
@@ -450,6 +453,7 @@
 	NDefines.NAir.AA_INDUSTRY_AIR_DAMAGE_FACTOR = -0.04 -- -0.12
 	NDefines.NAir.ANTI_AIR_PLANE_DAMAGE_FACTOR = 0.02 -- 0.8
 	NDefines.NAir.ANTI_AIR_PLANE_DAMAGE_CHANCE = 0.03 -- 0.1
+	NDefines.NAir.AIR_DEPLOYMENT_DAYS = 1 -- 2
 	NDefines.NAir.ANTI_AIR_ATTACK_TO_DAMAGE_REDUCTION_FACTOR = 0.8 -- 1.0
 	NDefines.NAir.ANTI_AIR_MAXIMUM_DAMAGE_REDUCTION_FACTOR = 0.75 -- 0.75
 	NDefines.NAir.NAVAL_STRIKE_BASE_STR_TO_PLANES_RATIO = 0.06 -- 0.03
