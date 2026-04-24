@@ -1,0 +1,366 @@
+spriteTypes = {
+	
+	###   MBT ###
+
+	spriteType = {
+	    name = "GFX_CHI_mbt_tech_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/MBT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_mbt_tech_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/MBT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_mbt_tech_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/MBT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_mbt_tech_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/MBT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_mbt_tech_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/MBT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_hull_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_CHI_apc_hull_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_hull_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_hull_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_hull_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_hull_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_tech_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_CHI_apc_tech_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_tech_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_tech_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_tech_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_apc_tech_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_hull_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_hull_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_hull_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_hull_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_hull_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV5.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_tech_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_tech_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_tech_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_tech_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_afv_tech_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/IFV5.dds"
+	}
+        SpriteType = {
+		name = "GFX_CHI_light_tank_hull_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_light_tank_hull_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_light_tank_hull_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_light_tank_hull_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_light_tank_hull_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_CHI_light_tank_tech_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT1.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_CHI_light_tank_tech_1_medium"           
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT2.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_CHI_light_tank_tech_2_medium"           
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT3.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_CHI_light_tank_tech_3_medium"           
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT4.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_CHI_light_tank_tech_4_medium"           
+		texturefile = "gfx/interface/technologies/CHI/LAND/LT5.dds"
+	}
+spriteType = {
+	    name = "GFX_CHI_util_vehicle_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U1.dds"
+	}
+spriteType = {
+	    name = "GFX_CHI_util_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U2.dds"
+	}
+spriteType = {
+	    name = "GFX_CHI_util_vehicle_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U3.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_util_vehicle_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U4.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_util_vehicle_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U5.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_util_vehicle_5_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U6.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_util_vehicle_6_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U7.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_util_vehicle_7_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/U8.dds"
+	}
+        spriteType = {
+		name = "GFX_CHI_nsb_SP_arty_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type83M.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_SP_arty_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/PLZ05.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_SP_arty_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/PLL09.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_SP_arty_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/PCL161.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_SP_arty_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SPG5.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_CHI_spart_hull_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type83M.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_CHI_spart_hull_1_medium"              
+		texturefile = "gfx/interface/technologies/CHI/LAND/PLZ05.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_CHI_spart_hull_2_medium"              
+		texturefile = "gfx/interface/technologies/CHI/LAND/PLL09.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_CHI_spart_hull_3_medium"              
+		texturefile = "gfx/interface/technologies/CHI/LAND/PCL161.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_CHI_spart_hull_4_medium"              
+		texturefile = "gfx/interface/technologies/CHI/LAND/SPG5.dds"
+	}
+        spriteType = {
+	    name = "GFX_CHI_Heavy_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SAT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_Heavy_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SAT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_Heavy_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SAT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_Heavy_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SAT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_Heavy_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/SAT5.dds"
+	}
+        spriteType = {
+	    name = "GFX_CHI_nsb_SP_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type80SG.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_nsb_SP_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/HQ7.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_nsb_SP_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/08625.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_nsb_SP_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type625.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_nsb_SP_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/YSPAA5.dds"
+	}
+	spriteType = {
+	    name = "GFX_CHI_spaa_hull_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type80SG.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_CHI_spaa_hull_1_medium"                 
+		texturefile = "gfx/interface/technologies/CHI/LAND/HQ7.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_CHI_spaa_hull_2_medium"                 
+		texturefile = "gfx/interface/technologies/CHI/LAND/08625.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_CHI_spaa_hull_3_medium"                 
+		texturefile = "gfx/interface/technologies/CHI/LAND/Type625.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_CHI_spaa_hull_4_medium"                 
+		texturefile = "gfx/interface/technologies/CHI/LAND/YSPAA5.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_attack_helicopter_tech_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-11WA.dds"	
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_attack_helicopter_tech_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9WZ.dds"	
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_attack_helicopter_tech_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-10A.dds"	
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_attack_helicopter_tech_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-19A.dds"	
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_attack_helicopter_tech_5_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-42.dds"	
+	}
+SpriteType = {
+		name = "GFX_CHI_attack_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-11WA.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_attack_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9WZ.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_attack_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-10A.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_attack_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-19A.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_attack_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-42.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-6.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9M.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9C.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-20.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_nsb_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-22.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-6.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9M.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-9C.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-20.dds"
+	}
+SpriteType = {
+		name = "GFX_CHI_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/CHI/HELI/Z-22.dds"
+	}
+	}

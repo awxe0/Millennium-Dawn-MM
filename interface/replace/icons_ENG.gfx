@@ -1,0 +1,414 @@
+spriteTypes = {
+	
+	###   MBT ###
+
+	spriteType = {
+	    name = "GFX_ENG_mbt_tech_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Cent_MK5.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_mbt_tech_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Challenger-2.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_mbt_tech_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Challenger_3TD.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_mbt_tech_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/EMBT.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_mbt_tech_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/BMBT_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_hull_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_A1.dds"
+	}
+        SpriteType = {
+		name = "GFX_ENG_apc_hull_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_hull_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV103_A4.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_hull_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV430_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_hull_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Ares_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_hull_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Jaguar_APC.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_tech_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_A1.dds"
+	}
+        SpriteType = {
+		name = "GFX_ENG_apc_tech_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_tech_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV103_A4.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_tech_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV430_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_tech_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Ares_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_apc_tech_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Jaguar_APC.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_hull_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_IFV_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_hull_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV510_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_hull_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/WheeledWarriorCSRP_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_hull_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Ajax_A3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_hull_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Knight_IFV.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_tech_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_IFV_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_tech_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV432_IFV_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_tech_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV510_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_tech_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/WheeledWarriorCSRP_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_afv_tech_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Knight_IFV.dds"
+	}
+        SpriteType = {
+		name = "GFX_ENG_light_tank_hull_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Fox_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_light_tank_hull_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV101_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_light_tank_hull_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/WheeledCSRP_A1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_light_tank_hull_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/AjaxLT_A2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_light_tank_hull_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Jaguar_LT.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_light_tank_tech_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/Fox_A2.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_ENG_light_tank_tech_1_medium"           
+		texturefile = "gfx/interface/technologies/ENG/LAND/FV101_A1.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_ENG_light_tank_tech_2_medium"           
+		texturefile = "gfx/interface/technologies/ENG/LAND/WheeledCSRP_A1.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_ENG_light_tank_tech_3_medium"           
+		texturefile = "gfx/interface/technologies/ENG/LAND/AjaxLT_A2.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_ENG_light_tank_tech_4_medium"           
+		texturefile = "gfx/interface/technologies/ENG/LAND/Jaguar_LT.dds"
+	}
+spriteType = {
+	    name = "GFX_ENG_util_vehicle_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U1.dds"
+	}
+spriteType = {
+	    name = "GFX_ENG_util_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U2.dds"
+	}
+spriteType = {
+	    name = "GFX_ENG_util_vehicle_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U3.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_util_vehicle_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U4.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_util_vehicle_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U5.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_util_vehicle_5_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U6.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_util_vehicle_6_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U7.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_util_vehicle_7_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/U8.dds"
+	}
+        spriteType = {
+		name = "GFX_ENG_nsb_SP_arty_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG0.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_SP_arty_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG1.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_SP_arty_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG2.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_SP_arty_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG3.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_SP_arty_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG4.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ENG_spart_hull_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG0.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_ENG_spart_hull_1_medium"              
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG1.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_ENG_spart_hull_2_medium"              
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG2.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_ENG_spart_hull_3_medium"              
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG3.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_ENG_spart_hull_4_medium"              
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPG4.dds"
+	}
+        spriteType = {
+	    name = "GFX_ENG_Heavy_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SAT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_Heavy_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SAT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_Heavy_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SAT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_Heavy_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SAT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_Heavy_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SAT5.dds"
+	}
+        spriteType = {
+	    name = "GFX_ENG_nsb_SP_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA1.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_nsb_SP_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA2.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_nsb_SP_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA3.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_nsb_SP_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA4.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_nsb_SP_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA5.dds"
+	}
+	spriteType = {
+	    name = "GFX_ENG_spaa_hull_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA1.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_ENG_spaa_hull_1_medium"                 
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA2.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_ENG_spaa_hull_2_medium"                 
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA3.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_ENG_spaa_hull_3_medium"                 
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA4.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_ENG_spaa_hull_4_medium"                 
+		texturefile = "gfx/interface/technologies/ENG/LAND/SPAA5.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_attack_helicopter_tech_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Scout-AH1.dds"	
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_attack_helicopter_tech_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Lynx-AH1.dds"	
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_attack_helicopter_tech_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Apache-AH1.dds"	
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_attack_helicopter_tech_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/AH-249.dds"	
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_attack_helicopter_tech_5_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/AH-949.dds"	
+	}
+SpriteType = {
+		name = "GFX_ENG_attack_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Scout-AH1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_attack_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Lynx-AH1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_attack_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Apache-AH1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_attack_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/AH-249.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_attack_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/AH-949.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Gazelle.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Chinook-HC1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Wildcat-AH1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/SBX.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_nsb_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/FBUH.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Gazelle.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Chinook-HC1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/Wildcat-AH1.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/SBX.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/ENG/HELI/FBUH.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_gen_3_medium_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/TornadoF2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_4_medium_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Typhoon-F2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_5_medium_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Replica.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_6_medium_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Tempest.dds"
+	}
+       SpriteType = {
+		name = "GFX_ENG_gen_3_light_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/HarrierGR5.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_4_light_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/GroundHarrier.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_5_light_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/F-35A.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_gen_6_light_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Fenrir.dds"
+	}
+SpriteType = {
+		name = "GFX_ENG_large_plane_airframe_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Vulcan.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_large_plane_airframe_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/B-1M.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_large_plane_airframe_5_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/Siberia.dds"
+	}
+	SpriteType = {
+		name = "GFX_ENG_large_plane_airframe_6_medium"
+		texturefile = "gfx/interface/technologies/ENG/AIR/B-21.dds"
+	}
+	}

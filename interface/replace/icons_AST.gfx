@@ -1,0 +1,366 @@
+spriteTypes = {
+	
+	###   MBT ###
+
+	spriteType = {
+	    name = "GFX_AST_mbt_tech_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/MBT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_mbt_tech_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/MBT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_mbt_tech_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/MBT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_mbt_tech_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/MBT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_mbt_tech_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/MBT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_hull_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_AST_apc_hull_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_hull_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_hull_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_hull_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_hull_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_tech_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_AST_apc_tech_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_tech_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_tech_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_tech_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_apc_tech_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_hull_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_hull_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_hull_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_hull_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_hull_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV5.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_tech_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_tech_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_tech_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_tech_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_afv_tech_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/IFV5.dds"
+	}
+        SpriteType = {
+		name = "GFX_AST_light_tank_hull_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_light_tank_hull_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_light_tank_hull_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_light_tank_hull_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_light_tank_hull_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_AST_light_tank_tech_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/LT1.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_AST_light_tank_tech_1_medium"           
+		texturefile = "gfx/interface/technologies/AST/LAND/LT2.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_AST_light_tank_tech_2_medium"           
+		texturefile = "gfx/interface/technologies/AST/LAND/LT3.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_AST_light_tank_tech_3_medium"           
+		texturefile = "gfx/interface/technologies/AST/LAND/LT4.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_AST_light_tank_tech_4_medium"           
+		texturefile = "gfx/interface/technologies/AST/LAND/LT5.dds"
+	}
+spriteType = {
+	    name = "GFX_AST_util_vehicle_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U1.dds"
+	}
+spriteType = {
+	    name = "GFX_AST_util_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U2.dds"
+	}
+spriteType = {
+	    name = "GFX_AST_util_vehicle_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U3.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_util_vehicle_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U4.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_util_vehicle_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U5.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_util_vehicle_5_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U6.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_util_vehicle_6_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U7.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_util_vehicle_7_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/U8.dds"
+	}
+        spriteType = {
+		name = "GFX_AST_nsb_SP_arty_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG1.dds"
+	}
+	spriteType = {
+		name = "GFX_AST_nsb_SP_arty_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG2.dds"
+	}
+	spriteType = {
+		name = "GFX_AST_nsb_SP_arty_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG3.dds"
+	}
+	spriteType = {
+		name = "GFX_AST_nsb_SP_arty_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG4.dds"
+	}
+	spriteType = {
+		name = "GFX_AST_nsb_SP_arty_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG5.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_AST_spart_hull_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG1.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_AST_spart_hull_1_medium"              
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG2.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_AST_spart_hull_2_medium"              
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG3.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_AST_spart_hull_3_medium"              
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG4.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_AST_spart_hull_4_medium"              
+		texturefile = "gfx/interface/technologies/AST/LAND/SPG5.dds"
+	}
+        spriteType = {
+	    name = "GFX_AST_Heavy_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SAT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_Heavy_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SAT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_Heavy_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SAT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_Heavy_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SAT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_Heavy_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SAT5.dds"
+	}
+        spriteType = {
+	    name = "GFX_AST_nsb_SP_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA1.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_nsb_SP_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA2.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_nsb_SP_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA3.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_nsb_SP_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA4.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_nsb_SP_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA5.dds"
+	}
+	spriteType = {
+	    name = "GFX_AST_spaa_hull_0_medium"
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA1.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_AST_spaa_hull_1_medium"                 
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA2.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_AST_spaa_hull_2_medium"                 
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA3.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_AST_spaa_hull_3_medium"                 
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA4.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_AST_spaa_hull_4_medium"                 
+		texturefile = "gfx/interface/technologies/AST/LAND/SPAA5.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_attack_helicopter_tech_1_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/AH-1GA.dds"	
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_attack_helicopter_tech_2_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/AH-1WA.dds"	
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_attack_helicopter_tech_3_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/Tiger.dds"	
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_attack_helicopter_tech_4_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/Defiant-AST.dds"	
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_attack_helicopter_tech_5_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/ASH-1.dds"	
+	}
+SpriteType = {
+		name = "GFX_AST_attack_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/Bo-105P.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_attack_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/AH-1WA.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_attack_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/Tiger.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_attack_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/Defiant-AST.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_attack_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/ASH-1.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/UH-1CA.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/EC-135T2.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/MRH-90.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/FVL.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_nsb_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/JMR.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/UH-1CA.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/EC-135T2.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/MRH-90.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/FVL.dds"
+	}
+SpriteType = {
+		name = "GFX_AST_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/AST/HELI/JMR.dds"
+	}
+	}

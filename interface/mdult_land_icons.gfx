@@ -1,0 +1,1237 @@
+spriteTypes = {
+spriteType = {
+		name = "GFX_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/FRA/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/FRA/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/GEN/INF/FUTURERIFLE2.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_eastern_european_2d_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF8.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L1A1.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/ISR/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/ISR/INF/galilace.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/BEL/INF/SCAR25.dds"
+	}
+	spriteType = {
+		name = "GFX_southamerican_2d_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/BRA/INF/BRAfuturerifle.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/ISR/INF/galilace.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/ISR/INF/galilacegen2.dds"
+	}
+	spriteType = {
+		name = "GFX_african_2d_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/ISR/INF/AFRfuturerifle.dds"
+	}
+
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L1A1.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/FRA/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/FRA/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_western_european_2d_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/BEL/INF/SCAR35.dds"
+	}
+	### GEN MBT ###
+
+	spriteType = {
+		name = "GFX_MBT_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT1.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT2.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT3.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT4.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT5.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_7_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT6.dds"
+	}
+	spriteType = {
+		name = "GFX_MBT_8_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/MBT7.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_6_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_7_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENGI_MBT_8_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/ENGIN.dds"
+	}
+	### GEN IFV ###
+
+	spriteType = {
+		name = "GFX_IFV_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV1.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV2.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV3.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV4.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV5.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_6_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV6.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_7_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV7.dds"
+	}
+	spriteType = {
+		name = "GFX_IFV_8_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/IFV8.dds"
+	}
+
+	### GEN APC ###
+
+	spriteType = {
+		name = "GFX_APC_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC1.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC2.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC3.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC4.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC5.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_6_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC6.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_7_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC7.dds"
+	}
+	spriteType = {
+		name = "GFX_APC_8_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/APC8.dds"
+	}
+
+	spriteType = {
+		name = "GFX_medium_tank_amphibious_chassis_1_medium"
+		texturefile = "gfx/interface/technologies/Generic/NSB_AFV/APC1.dds"
+	}
+	spriteType = {
+		name = "GFX_medium_tank_amphibious_chassis_1_medium"
+		texturefile = "gfx/interface/technologies/Generic/NSB_AFV/APC3.dds"
+	}
+	spriteType = {
+		name = "GFX_medium_tank_amphibious_chassis_2_medium"
+		texturefile = "gfx/interface/technologies/Generic/NSB_AFV/APC5.dds"
+	}
+	spriteType = {
+		name = "GFX_medium_tank_amphibious_chassis_3_medium"
+		texturefile = "gfx/interface/technologies/Generic/NSB_AFV/APC6.dds"
+	}
+	spriteType = {
+		name = "GFX_medium_tank_amphibious_chassis_4_medium"
+		texturefile = "gfx/interface/technologies/Generic/NSB_AFV/APC8.dds"
+	}
+
+	### GEN Recon ###
+
+	spriteType = {
+		name = "GFX_Rec_tank_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC1.dds"
+	}
+	spriteType = {
+		name = "GFX_Rec_tank_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC2.dds"
+	}
+	spriteType = {
+		name = "GFX_Rec_tank_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC3.dds"
+	}
+	spriteType = {
+		name = "GFX_Rec_tank_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC4.dds"
+	}
+	spriteType = {
+		name = "GFX_Rec_tank_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC5.dds"
+	}
+	spriteType = {
+		name = "GFX_Rec_tank_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/REC6.dds"
+	}
+
+	#### GEN Utility Vehicles ####
+
+	spriteType = {
+		name = "GFX_util_vehicle_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U1.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U2.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U3.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U4.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U5.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_5_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U6.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_6_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U7.dds"
+	}
+	spriteType = {
+		name = "GFX_util_vehicle_7_medium"
+		texturefile = "gfx/interface/technologies/SOV/LAND/U8.dds"
+	}
+spriteType = {
+		name = "GFX_ENG_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M116.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L118.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M888.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M999.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M116.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L118.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M888.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/M999.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Javelin.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Starstreak.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/HVM.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Martlet.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Skyguard.dds"
+	}
+        spriteType = {
+		name = "GFX_ENG_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Javelin.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Starstreak.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/HVM.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Martlet.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Skyguard.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/LAW80.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/MILAN.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/NLAW.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/NLAWG.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/Arrow.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PL-66.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-01.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/WAC-21.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-24.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-32.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PL-66.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-01.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/WAC-21.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-24.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/PLL-32.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/HN-5.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/QW-1.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/FN-6.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/QW-18.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/FN-26.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/HN-5.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/QW-1.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/FN-6.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/QW-18.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/FN-26.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/Type-69.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/HJ-8.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/HJ-12.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/HJ-16.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/TL-4.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M101.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FH-155-1.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M888.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/MACRO.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M101.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FH-155-1.dds"
+	}
+        spriteType = {
+		name = "GFX_GER_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M777.dds"
+	}
+        spriteType = {
+		name = "GFX_GER_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/M888.dds"
+	}
+        spriteType = {
+		name = "GFX_GER_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/MACRO.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/EXDS.dds"
+	}
+        spriteType = {
+		name = "GFX_GER_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/EXDS.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/Panzerfaust-3.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/MILAN.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/MELLS.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/MELLS-ER2.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/Ramarak.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-30.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/2A65.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-40.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-50.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-60.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-30.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/2A65.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-40.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-50.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/D-60.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/RPG-7.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K111.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9M113M.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/Bulat.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/Shchuka.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K32.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K38.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K333.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K335.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K48.dds"
+	}
+        spriteType = {
+		name = "GFX_SOV_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K32.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K38.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K333.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K335.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/9K48.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70_E2.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70_E1.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/EXDS.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70_E2.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-70_E1.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/EXDS.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/CarlGustaf-M136.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-56M.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/MBT-LAW.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/RBS-90.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/Jackal.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FHF.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FH-77.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M801.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M987.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FHF.dds"
+	}
+	spriteType = {
+		name = "GFX_SWE_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/FH-77.dds"
+	}
+        spriteType = {
+		name = "GFX_SWE_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M777.dds"
+	}
+        spriteType = {
+		name = "GFX_SWE_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M801.dds"
+	}
+        spriteType = {
+		name = "GFX_SWE_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/SWE/INF/M987.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Sungur.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Sapan.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Sungur.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Sapan.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Har66.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/MILAN.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Omtas.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Karaok.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/KaraokNG.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/M114.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/M198.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Panter.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Boran.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/BoranNG.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/M114.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/M198.dds"
+	}
+        spriteType = {
+		name = "GFX_TUR_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Panter.dds"
+	}
+        spriteType = {
+		name = "GFX_TUR_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/Boran.dds"
+	}
+        spriteType = {
+		name = "GFX_TUR_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/INF/BoranNG.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/EXDS.dds"
+	}
+        spriteType = {
+		name = "GFX_USA_nsb_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/Redeye.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FIM-92.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FIM-92J.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FSLM.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/EXDS.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/LAW.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/TOW.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/Javelin.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/Spike.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/FAT-GM.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M102.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M198.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M801.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M987.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_artillery_0_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M102.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_artillery_1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M198.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_artillery_2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M777.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_artillery_3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M801.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_nsb_artillery_4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/M987.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF1.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_SOV_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/SOV/INF/INF8.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L1A1.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L1A1SUIT.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L85A1.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L85A1.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L85A2.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L85A3.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/L87A1.dds"
+	}
+	spriteType = {
+		name = "GFX_ENG_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/ENG/INF/FRAFU2.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/G3A4.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_GER_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/GER/INF/INF8.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF1.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_CHI_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/CHI/INF/INF8.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF2.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF3.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF4.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF5.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF6.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF7.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_infantry_weapons7_medium"
+		texturefile = "gfx/interface/technologies/USA/INF/INF8.dds"
+	}
+	}

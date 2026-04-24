@@ -1,0 +1,414 @@
+spriteTypes = {
+	
+	###   MBT ###
+
+	spriteType = {
+	    name = "GFX_TUR_mbt_tech_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/MBT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_mbt_tech_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/MBT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_mbt_tech_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/MBT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_mbt_tech_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/MBT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_mbt_tech_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/MBT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_hull_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_TUR_apc_hull_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_hull_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_hull_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_hull_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_hull_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_tech_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC1.dds"
+	}
+        SpriteType = {
+		name = "GFX_TUR_apc_tech_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_tech_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_tech_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_tech_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_apc_tech_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/APC5.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_hull_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_hull_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_hull_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_hull_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_hull_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV5.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_tech_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_tech_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_tech_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_tech_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_afv_tech_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/IFV5.dds"
+	}
+        SpriteType = {
+		name = "GFX_TUR_light_tank_hull_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_light_tank_hull_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_light_tank_hull_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_light_tank_hull_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_light_tank_hull_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT5.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_light_tank_tech_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT1.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_TUR_light_tank_tech_1_medium"           
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT2.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_TUR_light_tank_tech_2_medium"           
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT3.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_TUR_light_tank_tech_3_medium"           
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT4.dds"
+	}                                                       
+	SpriteType = {                                          
+		name = "GFX_TUR_light_tank_tech_4_medium"           
+		texturefile = "gfx/interface/technologies/TUR/LAND/LT5.dds"
+	}
+        spriteType = {
+	    name = "GFX_TUR_util_vehicle_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U1.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U2.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U3.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U4.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U5.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_5_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U6.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_6_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U7.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_util_vehicle_7_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/U8.dds"
+	}
+        spriteType = {
+		name = "GFX_TUR_nsb_SP_arty_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG0.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_SP_arty_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG1.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_SP_arty_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG2.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_SP_arty_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG3.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_nsb_SP_arty_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG4.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_TUR_spart_hull_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG0.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_TUR_spart_hull_1_medium"              
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG1.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_TUR_spart_hull_2_medium"              
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG2.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_TUR_spart_hull_3_medium"              
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG3.dds"
+	}                                                     
+	spriteType = {                                        
+		name = "GFX_TUR_spart_hull_4_medium"              
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPG4.dds"
+	}
+        spriteType = {
+	    name = "GFX_TUR_Heavy_Anti_tank_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SAT1.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_Heavy_Anti_tank_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SAT2.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_Heavy_Anti_tank_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SAT3.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_Heavy_Anti_tank_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SAT4.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_Heavy_Anti_tank_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SAT5.dds"
+	}
+        spriteType = {
+	    name = "GFX_TUR_nsb_SP_Anti_Air_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA1.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_nsb_SP_Anti_Air_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA2.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_nsb_SP_Anti_Air_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA3.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_nsb_SP_Anti_Air_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA4.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_nsb_SP_Anti_Air_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA5.dds"
+	}
+	spriteType = {
+	    name = "GFX_TUR_spaa_hull_0_medium"
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA1.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_TUR_spaa_hull_1_medium"                 
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA2.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_TUR_spaa_hull_2_medium"                 
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA3.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_TUR_spaa_hull_3_medium"                 
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA4.dds"
+	}                                                       
+	spriteType = {                                          
+	    name = "GFX_TUR_spaa_hull_4_medium"                 
+		texturefile = "gfx/interface/technologies/TUR/LAND/SPAA5.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_attack_helicopter_tech_1_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AH-1T.dds"	
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_attack_helicopter_tech_2_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AH-1WT.dds"	
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_attack_helicopter_tech_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-129A.dds"	
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_attack_helicopter_tech_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-929.dds"	
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_attack_helicopter_tech_5_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-1299.dds"	
+	}
+SpriteType = {
+		name = "GFX_TUR_attack_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AH-1T.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_attack_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AH-1WT.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_attack_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-129A.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_attack_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-929.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_attack_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-1299.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/UH-1T.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/UH-60T.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AS-532.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-625S.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_nsb_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-1295.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_transport_helicopter1_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/UH-1T.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_transport_helicopter2_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/UH-60T.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_transport_helicopter3_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/AS-532.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_transport_helicopter4_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-625S.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_transport_helicopter5_medium"
+		texturefile = "gfx/interface/technologies/TUR/HELI/T-1295.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_gen_3_medium_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-4E-2020.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_4_medium_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-15CT.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_5_medium_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/TF-X_A4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_6_medium_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-30.dds"
+	}
+       SpriteType = {
+		name = "GFX_TUR_gen_3_light_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-5B-2000.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_4_light_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-16C_Block40.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_5_light_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/TF-200.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_gen_6_light_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/F-55E.dds"
+	}
+SpriteType = {
+		name = "GFX_TUR_large_plane_airframe_3_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/B-52T.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_large_plane_airframe_4_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/B-1T.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_large_plane_airframe_5_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/B-2T.dds"
+	}
+	SpriteType = {
+		name = "GFX_TUR_large_plane_airframe_6_medium"
+		texturefile = "gfx/interface/technologies/TUR/AIR/B-42.dds"
+	}
+	}
